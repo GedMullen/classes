@@ -11,7 +11,7 @@
 1. Complete Week 3 & 4 Exercises
 2. Create a shell script called checkwarmup.sh to test that your week 3 and 4 exercises work correctly. Create the shell script in the same folder as your class files and run your classes using the following commamd:
 
-'java cp . Wk4Ex1'
+`java cp . Wk4Ex1`
 
 3. Complete the tutorials above.
 
