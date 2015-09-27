@@ -6,7 +6,7 @@
   * [Variable Types](http://www.tutorialspoint.com/java/java_variable_types.htm)
   * [Modifier Types](http://www.tutorialspoint.com/java/java_modifier_types.htm)
 
-**Exercises
+##Exercises
 
 1. Complete Week 3 & 4 Exercises
 2. Create a shell script called checkwarmup.sh to test that your week 3 and 4 exercises work correctly. Create the shell script in the same folder as your class files and run your classes using the following commamd:
