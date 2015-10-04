@@ -1,3 +1,9 @@
+# Week 6
+
+1. Last week - review.
+2. 
+3. 
+
 # Week 5
 
 1. Last week - review.
@@ -14,4 +20,4 @@
  `java -cp . Wk4Ex1` 
 
 3. Complete the tutorials above.
-4. Create a new project called OOPExercises in Eclipse on Ygritte and start work through these [Java OOP Exercises](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html). Make sure you create the classes in your Eclipse project as directed by the instructions in the exercises.
+4. ~~Create a new project called OOPExercises in Eclipse on Ygritte and start work through these [Java OOP Exercises](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html). Make sure you create the classes in your Eclipse project as directed by the instructions in the exercises.~~
