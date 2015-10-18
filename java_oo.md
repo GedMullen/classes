@@ -1,6 +1,35 @@
 # Week 7
 
 1. Last week - review.
+2. The Transaction class:
+
+```java
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Transaction {
+        private double amount;
+        private String date;
+        private String description;
+        private double balance;
+
+        public Transaction(double amount, String description, double balance) {
+                this.amount = amount;
+                this.date = setDate();
+                this.description = description;
+                this.balance = balance;
+        }
+
+        public String setDate() {
+                SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd:HH-mm-ss");
+                return this.date = sdf.format(System.currentTimeMillis());
+        }
+
+        public String toString() {
+                return date + "\t" + description + "\t" + amount + "\t" + balance;
+        }
+}
+```
 
 ##Exercises
 
