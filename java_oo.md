@@ -22,7 +22,7 @@ public class Transaction {
 
         public String setDate() {
                 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd:HH-mm-ss");
-                return this.date = sdf.format(System.currentTimeMillis());
+                return sdf.format(System.currentTimeMillis());
         }
 
         public String toString() {
