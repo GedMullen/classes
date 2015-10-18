@@ -1,7 +1,7 @@
 # Week 7
 
 1 . Last week - review.
-2 . The Transaction class:
+<br>2 . The Transaction class:
 ```java
 import java.text.SimpleDateFormat;
 import java.util.Date;
