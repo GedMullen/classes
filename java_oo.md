@@ -1,3 +1,17 @@
+# Week 7
+
+1. Last week - review.
+
+##Exercises
+
+1. Continue with the exercises from Week 6.
+2. Create a shell script called `checkoopbasics.sh` in the bin directory of your OOPBasics project and use it to run all your test code for the exercises completed within this project. Add to the shell script as you complete your exercises. Remember to make the script executable by issueing the following command:
+
+`chmod 700 checkoopbasics.sh`
+
+
+
+
 # Week 6
 
 1. Last week - review.
