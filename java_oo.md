@@ -33,6 +33,7 @@ public class Transaction {
 ```java
 private ArrayList<Transaction> transactions = new ArrayList<Transaction>;
 ```
+4 . [UML Distilled](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
 
 ##Exercises
 
