@@ -1,8 +1,7 @@
 # Week 7
 
-1. Last week - review.
-2. The Transaction class:
- -
+1 . Last week - review.
+2 . The Transaction class:
 ```java
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -30,7 +29,7 @@ public class Transaction {
         }
 }
 ```
-3. Instantiating and ArrayList of Transaction objects in Account.java:
+3 . Instantiating and ArrayList of Transaction objects in Account.java:
 ```java
 private ArrayList<Transaction> transactions = new ArrayList<Transaction>;
 ```
