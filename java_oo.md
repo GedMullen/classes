@@ -58,33 +58,6 @@ private ArrayList<Transaction> transactions = new ArrayList<Transaction>();
 1. Complete Week 5 Exercises
 2. Create a new project in Eclipse on Ygritte called OOPBasics and complete the [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html) tutorial. Create the classes in this tutorial as instructed.
 3. You have been tasked with modifying the Account class in Example 3.1 in the tutorial above to include a record of transactions associated with the account. An extra method called printStatement() needs to be added to the class so that a statement of transactions can be issued as required. The method should list the date, description and amount of the transaction with an updated balance amount. Hint: you will need to modify the implementation of the credit() and debit() methods and store your transaction history in an Array or an ArrayList. The date of the transaction should be derived (i.e. set it to current time) and not passed as a parameter. Modify the TestAccount class to test the modified code. Create at least 10 transactions with a mixture of credit and debit.
-ArrayList listOfTransactions = new ArrayList();
-
-...in credit() and debit()
-
-Transaction transaction = new Transaction(description, amount, runningBalance);
-listOfTransactions.add(transaction);
-
-
-listaOfTransactions
-	->object1 
-		description
-		amount
-		runningBalanace
-	->object2
-		description
-		amount
-		runningBalanace
-	->object3 
-		description
-		amount
-		runningBalanace
-	->object4 
-		description
-		amount
-		runningBalanace 
-
-
 4. Modify the Account class to allow customers to withdraw funds even if they do not have a positive balance. Create a method called hasBeenOverdrawn() that returns a value of true if the account has been overdrawn at any time. Create appropriate test code. 
 5. Create another method in the account class called printOverdrawnTransactions() that prints all the transactions that are associate with the Account that have resulted in a negative balance. Create appropriate test code.
 6. Create a shell script called checkoopbasics.sh in the bin folder of your OOPBasics project and add an entry into the script that runs your test code for exercises 3-5. Add entries into this shell script as you complete the exercies below. 
