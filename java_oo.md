@@ -2,7 +2,6 @@
 
 1. Last week - review.
 2. The Transaction class:
-
 ```java
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -29,6 +28,10 @@ public class Transaction {
                 return date + "\t" + description + "\t" + amount + "\t" + balance;
         }
 }
+```
+3. Instantiating and ArrayList of Transaction objects in Account.java:
+```java
+private ArrayList<Transaction> transactions = new ArrayList<Transaction>;
 ```
 
 ##Exercises
