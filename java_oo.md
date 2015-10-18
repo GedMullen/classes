@@ -29,9 +29,9 @@ public class Transaction {
         }
 }
 ```
-3 . Instantiating and ArrayList of Transaction objects in Account.java:
+3 . Instantiating an ArrayList of Transaction objects in Account.java:
 ```java
-private ArrayList<Transaction> transactions = new ArrayList<Transaction>;
+private ArrayList<Transaction> transactions = new ArrayList<Transaction>();
 ```
 4 . [UML Distilled](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
 
