@@ -34,6 +34,7 @@ public class Transaction {
 private ArrayList<Transaction> transactions = new ArrayList<Transaction>();
 ```
 4 . [UML Distilled](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
+5 . [OOP Demystified](http://www.amazon.co.uk/OOP-Demystified-A-Self-teaching-Guide/dp/0072253630)
 
 ##Exercises
 
