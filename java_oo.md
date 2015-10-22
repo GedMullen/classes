@@ -38,8 +38,10 @@ private ArrayList<Transaction> transactions = new ArrayList<Transaction>();
 
 ##Exercises
 
-1. Continue with the exercises from Week 6.
-2. Create a shell script called `checkoopbasics.sh` in the bin directory of your OOPBasics project and use it to run all your test code for the exercises completed within this project. Add to the shell script as you complete your exercises. Remember to make the script executable by issueing the following command:
+1. Complete Chapter 1 of [OOP Demystified](http://www.amazon.co.uk/OOP-Demystified-A-Self-teaching-Guide/dp/0072253630). 
+2. Create a file in Ygritte called ch1.txt and use this to record your answers to these [questions](https://docs.google.com/document/d/10kjRuck14f6pJbvaaRL0jLuZb_IYrAVMeZ5-EfsiwzI/pub).
+2. Continue with the exercises from Week 6.
+3. Create a shell script called `checkoopbasics.sh` in the bin directory of your OOPBasics project and use it to run all your test code for the exercises completed within this project. Add to the shell script as you complete your exercises. Remember to make the script executable by issueing the following command:
 
 `chmod 700 checkoopbasics.sh`
 
