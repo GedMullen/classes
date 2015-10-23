@@ -1,7 +1,7 @@
 # Week 8
 
 1 . Last week - review.
-2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
+<br>2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
 
 
 # Week 7
