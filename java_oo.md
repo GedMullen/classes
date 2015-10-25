@@ -4,7 +4,7 @@
 <br>2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
 <br>3 . [OOP Chapter 2 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVjBRVlZJZ1o1aU0/view?usp=sharing)
 <br>
-
+<iframe src="https://drive.google.com/file/d/0B-CFaefA1v4RVjBRVlZJZ1o1aU0/preview" width="640" height="480"></iframe>
 ##Exercises
 
 1. Complete Chapter 2 of [OOP Demystified](http://www.amazon.co.uk/OOP-Demystified-A-Self-teaching-Guide/dp/0072253630). 
