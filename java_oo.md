@@ -3,6 +3,7 @@
 1 . Last week - review.
 <br>2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
 <br>3 . [OOP Chapter 2 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVjBRVlZJZ1o1aU0/view?usp=sharing)
+<img src=https://drive.google.com/file/d/0B-CFaefA1v4RVjBRVlZJZ1o1aU0/view?usp=sharing height=100 width=100>
 
 ##Exercises
 
