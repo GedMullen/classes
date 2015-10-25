@@ -4,6 +4,12 @@
 <br>2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
 <br>3 . [OOP Chapter 2 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVjBRVlZJZ1o1aU0/view?usp=sharing)
 
+##Exercises
+
+1. Complete Chapter 2 of [OOP Demystified](http://www.amazon.co.uk/OOP-Demystified-A-Self-teaching-Guide/dp/0072253630). 
+2. Create a file in Ygritte called `ch2.txt` and use this to record your answers to these [questions](https://docs.google.com/document/d/10kjRuck14f6pJbvaaRL0jLuZb_IYrAVMeZ5-EfsiwzI/pub).
+3. Continue with the exercises from Week 6.
+
 
 # Week 7
 
