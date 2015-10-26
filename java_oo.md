@@ -43,6 +43,18 @@
 		}
 	}
 ```
+<br>6 . Chapter 1 Answers: 
+ 1 C
+ 2 B
+ 3 A
+ 4 A
+ 5 B
+ 6 D
+ 7 A
+ 8 C
+ 9 C
+ 10 D
+
 
 ##Exercises
 
