@@ -47,7 +47,7 @@
 ##Exercises
 
 1. Complete Chapter 2 of [OOP Demystified](http://www.amazon.co.uk/OOP-Demystified-A-Self-teaching-Guide/dp/0072253630). 
-2. Create a file in Ygritte called `ch2.txt` and use this to record your answers to these [questions]().
+2. Create a file in Ygritte called `ch2.txt` and use this to record your answers to these [questions](https://docs.google.com/document/d/119Eem95JeIItO3leLjR1IOsC9duDKdHzLq6ywG8DeJs/pub).
 3. Continue with the exercises from Week 6.
 
 
