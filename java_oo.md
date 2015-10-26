@@ -45,15 +45,15 @@
 ```
 <br>6 . Chapter 1 Answers: 
  1 C
- 2 B
- 3 A
+ 2 A
+ 3 D
  4 A
  5 B
- 6 D
- 7 A
- 8 C
- 9 C
- 10 D
+ 6 C
+ 7 B
+ 8 A
+ 9 D
+ 10 B
 
 
 ##Exercises
