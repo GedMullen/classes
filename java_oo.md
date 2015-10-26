@@ -16,7 +16,7 @@
 		}
 	}
 ```
-<br>4 . Overloaded move() method (Week 6 Exercise 7)
+<br>5 . Overloaded move() method (Week 6 Exercise 7)
 ```java
 	public void move(double xDisp, double yDisp) {
 		x += xDisp;
