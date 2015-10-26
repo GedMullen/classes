@@ -3,6 +3,19 @@
 1 . Last week - review.
 <br>2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
 <br>3 . [OOP Chapter 2 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RVjBRVlZJZ1o1aU0/view?usp=sharing)
+<br>4 . Week 6 Exercise 5 - printOverdrawnTransations() method
+```java
+	public void printOverdrawnTransations() {
+		System.out.println("Date\t\t", "Description\t\t", "Amount\t\t", "Balance\t\t\n");
+		for (int i = 0; i < (transactions.size()); i++) {
+			Transaction temp = transactions.get(i);
+
+			if (temp.getBalance() < 0) {
+				System.out.println(temp);
+			}
+		}
+	}
+```
 <br>4 . Overloaded move() method (Week 6 Exercise 7)
 ```java
 	public void move(double xDisp, double yDisp) {
