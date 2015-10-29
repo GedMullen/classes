@@ -11,7 +11,6 @@
 3. Continue with the exercises from Week 6.
 
 
-[Chapter 3 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RamVtWVdBZk5xTlU/view?usp=sharing)
 # Week 8
 
 1 . Last week - review.
