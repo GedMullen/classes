@@ -1,3 +1,16 @@
+# Week 8 - Thursday
+
+1 . Last class - review.
+<br>2 . [Chapter 3 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RamVtWVdBZk5xTlU/view?usp=sharing)
+<br>3 . [Controlling Access to Members of a Class](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+
+##Exercises
+
+1. Complete Chapter 3 of [OOP Demystified](http://www.amazon.co.uk/OOP-Demystified-A-Self-teaching-Guide/dp/0072253630). 
+2. Create a file in Ygritte called `ch3.txt` and use this to record your answers to these [questions]().
+3. Continue with the exercises from Week 6.
+
+
 [Chapter 3 Mindmap](https://drive.google.com/file/d/0B-CFaefA1v4RamVtWVdBZk5xTlU/view?usp=sharing)
 # Week 8
 
