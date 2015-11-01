@@ -5,7 +5,7 @@
 
 ##Exercises
 
-1. With your knowledge of encapsulation in mind complete the following exercise: Create three classess - a superclass "CareWorker" and two subclasses "Doctor" and "Nurse". The superclass has 3 attributes - firstName, secondName and speciality. The subclasses both have a method called getFullName() that returns a String of the first and second name of the care worker. If the care worker is a Doctor then "Dr" must be prepended to the full name. When accessing the string containinng the speciality of the careworker the profession of the careworker should also be included.    
+1. With your knowledge of encapsulation in mind complete the following exercise: Create three classes - a superclass "CareWorker" and two subclasses "Doctor" and "Nurse". The superclass has 3 attributes - firstName, secondName and speciality. The subclasses both have a method called getFullName() that returns a String of the first and second name of the care worker. If the care worker is a Doctor then "Dr" must be prepended to the full name. When accessing the string containinng the speciality of the careworker the profession of the careworker should also be included e.g. "Eyes (Nurse)".    
 
 # Week 8 - Thursday
 
