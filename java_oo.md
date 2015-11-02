@@ -2,10 +2,12 @@
 
 1 . Last class - review.
 <br>2 . Answers to last week's [questions](https://docs.google.com/document/d/11qFvmUdGBx51ADcc5VI1KyU0El6HjFJPs7LWdLD-Lio/edit?usp=sharing)
+<br>3 . [Inheritance](http://www.tutorialspoint.com/java/java_inheritance.htm)
+<br>4 . Java is on [codecademy](https://www.codecademy.com/courses/learn-java)
 
 ##Exercises
 
-1. With your knowledge of encapsulation in mind complete the following exercise: Create three classes - a superclass "CareWorker" and two subclasses "Doctor" and "Nurse". The superclass has 3 attributes - firstName, secondName and speciality. The subclasses both have a method called getFullName() that returns a String of the first and second name of the care worker. If the care worker is a Doctor then "Dr" must be prepended to the full name. When accessing the string containinng the speciality of the careworker the profession of the careworker should also be included e.g. "Eyes (Nurse)". Write code to test your implementation.   
+1. With your knowledge of encapsulation and inheritence in mind complete the following exercise: Create three classes - a superclass "CareWorker" and two subclasses "Doctor" and "Nurse". The superclass has 3 attributes - firstName, secondName and speciality. The subclasses both have a method called getFullName() that returns a String of the first and second name of the care worker. If the care worker is a Doctor then "Dr" must be prepended to the full name. When accessing the string containinng the speciality of the careworker the profession of the careworker should also be included e.g. "Eyes (Nurse)". Write code to test your implementation.   
 
 # Week 8 - Thursday
 
