@@ -3,6 +3,76 @@
 1 . Last class - review.
 <br>2 . [Overriding](http://www.tutorialspoint.com/java/java_overriding.htm)
 
+``java
+public class CareWorker {
+	
+	private String firstName;
+	private String secondName;
+	private String speciality;
+	
+	public CareWorker(String firstName, String secondName, String speciality){
+		this.firstName = firstName;
+		this.secondName = secondName;
+		this.speciality = speciality;
+	}
+	
+	protected String getSpeciality(){
+		return speciality;
+	}
+	
+	protected String getFullName(){
+		return firstName + " " + secondName;
+	}
+	
+	public static void main(String[] args) {
+
+		CareWorker careWorker = new CareWorker("Jeff", "Mullen", "Brain Surgeon");
+		System.out.println(careWorker.getFullName());
+	}
+
+}
+
+public class Doctor extends CareWorker {
+
+	public Doctor(String firstName, String secondName, String speciality){
+		super(firstName, secondName, speciality);
+	}
+	
+	
+	public String getFullName(){
+		return "Dr " + super.getFullName();
+	}
+
+	
+	public static void main(String[] args) {
+		Doctor doc = new Doctor("Joe", "Blogs", "Brains");
+		System.out.println(doc.getFullName());
+	}
+
+}
+
+public class Nurse extends CareWorker {
+	
+	public Nurse(String firstName, String secondName, String speciality){
+		super(firstName, secondName, speciality);
+	}
+	
+	public String getSpeciality(){
+		
+		return super.getSpeciality() + "  - Nurse";
+	}
+	
+	public static void main(String[] args) {
+		
+		Nurse nurse = new Nurse("Jef", "Mullen", "Eyes");
+		System.out.println(nurse.getFullName());
+		System.out.println(nurse.getSpeciality());
+				
+	}
+
+}
+```
+
 ##Exercises
 
 1. Create an "overriding" project in eclipse on Ygritte and work through the [Overriding Tutorial](http://www.tutorialspoint.com/java/java_overriding.htm)
@@ -11,6 +81,7 @@
 4. In the same way that the tutorial example creates a Dog instance with an Animal reference, create a Nurse instance with a CareWorker reference and call the getBedsideManner() method.
 5. Add a set and get method to Nurse for a headNurse field. Write code to test your new methods.
 6. Create a nurse instance with a CareWorker reference and try to call the getHeadNurse() method. What happens?
+7. Create three separate Nurse instances with CareWorker references and call all public methods on the Nurse instance. 
 
 
 # Week 9
