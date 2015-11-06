@@ -1,3 +1,18 @@
+# Week 10
+
+1 . Last class - review.
+<br>2 . [Overriding](http://www.tutorialspoint.com/java/java_overriding.htm)
+
+##Exercises
+
+1. Create an "overriding" project in eclipse on Ygritte and work through the [Overriding Tutorial](http://www.tutorialspoint.com/java/java_overriding.htm)
+2. With your knowledge of overriding in mind, enhance the CareWorker exercise in Week 9 by adding a method called getBedsideManner() that returns a string. The bedside manner for all care workers should be "polite" but in addtion to this the nurse should also be "caring" and the doctor should also be "informative". For example, calling the getBedsideManner() method on Doctor should result in the program outputting "polite and informative".
+3. In the same way that the tutorial example creates a Dog instance with an Animal reference, create a Doctor instance with a CareWorker reference and call the getBedsideManner() method. Is the output what you would expect?
+4. In the same way that the tutorial example creates a Dog instance with an Animal reference, create a Nurse instance with a CareWorker reference and call the getBedsideManner() method.
+5. Add a set and get method to Nurse for a headNurse field. Write code to test your new methods.
+6. Create a nurse instance with a CareWorker reference and try to call the getHeadNurse() method. What happens?
+
+
 # Week 9
 
 1 . Last class - review.
