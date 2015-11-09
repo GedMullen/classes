@@ -82,6 +82,7 @@ public class Nurse extends CareWorker {
 5. Add a set and get method to Nurse for a headNurse field. Write code to test your new methods.
 6. Create a nurse instance with a CareWorker reference and try to call the getHeadNurse() method. What happens?
 7. Create three separate Nurse instances with CareWorker references and call all public methods on the Nurse instance. 
+8. Create a file on Ygritte called wk10.txt and use it to store the answers to the following [quiz](https://docs.google.com/document/d/10JWQFIO04yI4Wp7wNKoInG2_hsdTgSUZEXlzRmZs7eU/pub).
 
 
 # Week 9
