@@ -83,6 +83,12 @@ public class Nurse extends CareWorker {
 6. Create a nurse instance with a CareWorker reference and try to call the getHeadNurse() method. What happens?
 7. Create three separate Nurse instances with CareWorker references and call all public methods on the Nurse instance. 
 8. Create a file on Ygritte called wk10.txt and use it to store the answers to the following [quiz](https://docs.google.com/document/d/10JWQFIO04yI4Wp7wNKoInG2_hsdTgSUZEXlzRmZs7eU/pub).
+9. Create a subclass of Doctor called Consultant.
+10. Add a field to Consultant called areaCovered and add an overloaded constructor so that Consultant can be instantiated with an areaCovered field (e.g. Fife).
+11. Override the getFullName method so that it returns "Consultant John Smith" rather than "Dr John Smith". How does this effect your access modifiers?
+12. Create a CareWorker reference to a Consultant instance. What methods are available to the reference?
+13. Create a Doctor reference to a Consultant instance. What methods are available to the reference?
+14. Create a Consultant reference to a Doctor instance. What happens?
 
 
 # Week 9
