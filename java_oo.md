@@ -10,6 +10,8 @@
 2. Create a project in Eclipse on Ygritte called "polymorphism" and complete the [Polymorphism Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html).
 3. Create 4 CareWorker references to a Nurse instance, a CareWorker instance, a Doctor instance and a Consultant instance. Call the getFullName method on each of the references. Is the output what you would expect?
 4. Create a Hospital class that contains an ArrayList<CareWorker> field. Add a toString method to Hospital that iterates through the ArrayList calling the getSpeciality, getBedsideManner and getFullName methods on each reference in the list. Write code to test your class using the objects you created in exercise 3.
+5. Create and Object reference to a Hospital instance. Call the toString method on the Object reference. Is the output what you would expect?
+6. You can use the Eclipse Debugger to further your understanding of how the JVM calls polymorphic methods. Go to the Window menu option in Eclipse and choose Help Contents. Then choose Java Development User Guide -> Concepts -> Debugger and read the guide to the Java Debugger. Use the "step into" functionality to see which polymorphic methods are actually being called when you run your code.  
 
 
 
