@@ -2,7 +2,8 @@
 
 1 . Last class - review.
 <br>2 . [Polymorphism Image](https://drive.google.com/file/d/0B-CFaefA1v4RaFFSeUpPbkpKVDQ/view?usp=docslist_api)
-<br>2 . [Polymorphism Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
+<br>3 . [Polymorphism Definition](http://whatis.techtarget.com/definition/polymorphism)
+<br>3 . [Polymorphism Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
 
 ##Exercises
 
