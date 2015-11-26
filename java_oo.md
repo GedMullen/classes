@@ -12,6 +12,7 @@
 <br>7 . [Polymorphism Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
 <br>8 . [Red Dwarf Polymorph Episode] (http://reddwarf.wikia.com/wiki/RD:_Polymorph)
 <br>9 . [draw.io] (https://www.draw.io/)
+<br>10 . [UML Tutorial] (http://www.tutorialspoint.com/uml/index.htm)
 
 ##Exercises
 
