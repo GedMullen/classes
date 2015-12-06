@@ -1,3 +1,9 @@
+# Week 13
+
+1 . Last class - review.
+<br>2 . [Abstract Classes Tutorial](http://examples.javacodegeeks.com/java-basics/java-abstract-class-example/)
+<br>3 . ghttps://drive.google.com/file/d/0B-CFaefA1v4Rc3lLV2IzdVNVMVU/view?usp=docslist_api
+
 # Week 11 & 12
 
 1 . Last class - review.
