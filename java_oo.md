@@ -4,13 +4,14 @@
 <br>2 . [Abstract Classes Tutorial](http://examples.javacodegeeks.com/java-basics/java-abstract-class-example/)
 <br>3 . Ged has been on a course! :grin: [Important Slide](https://drive.google.com/file/d/0B-CFaefA1v4Rc3lLV2IzdVNVMVU/view?usp=docslist_api) - 
 [Important Quote](https://drive.google.com/file/d/0B-CFaefA1v4ReFltRmFuY29XS0U/view?usp=docslist_api)
-
+<br>4 . [Java A Beginners Guide](http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=java+a+beginners+guide)
 ##Exercises
 
 1. Create a project in Eclipse on Ygritte called "abstraction" and complete the [Abstract Classes Tutorial](http://examples.javacodegeeks.com/java-basics/java-abstract-class-example/).
 2. In an object-oriented drawing application, you can draw circles, rectangles, lines, Bezier curves, and many other graphic objects. These objects all have certain states (for example: position, orientation, line color, fill color) and behaviors (for example: moveTo, rotate, resize, draw) in common. Some of these states and behaviors are the same for all graphic objects (for example: position, fill color, and moveTo). Others require different implementations (for example, resize or draw). All GraphicObjects must be able to draw or resize themselves; they just differ in how they do it. Design this application using a UML class diagram. The GraphicObject class is abstract. Which methods are regular and which are abstract?  Abstract methods and class names are shown using italics in UML.
 3. Write the code for exercise 2 in your Eclipse abstraction project (the graphic objects are not required to actually move etc you can just write output messages such as "moving"). Write appropriate test code. 
-4. Java Interfaces offer another way to implement abstraction within your code. If you have time look at the [Java Interfaces Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html) 
+4. Read "Using Abstract Classes" in Chapter 7 page 259 of "Java A Beginners Guide".
+5. Java Interfaces offer another way to implement abstraction within your code. If you have time look at the [Java Interfaces Tutorial](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html) 
 
 
 # Week 11 & 12
