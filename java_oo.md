@@ -4,7 +4,7 @@
 <br>2 . [Abstract Classes Tutorial](http://examples.javacodegeeks.com/java-basics/java-abstract-class-example/)
 <br>3 . Ged has been on a course! :grin: [Important Slide](https://drive.google.com/file/d/0B-CFaefA1v4Rc3lLV2IzdVNVMVU/view?usp=docslist_api) - 
 [Important Quote](https://drive.google.com/file/d/0B-CFaefA1v4ReFltRmFuY29XS0U/view?usp=docslist_api)
-<br>4 . [Java A Beginners Guide](http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=java+a+beginners+guide)
+<br>4 . [Java A Beginners Guide Book](http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=java+a+beginners+guide)
 ##Exercises
 
 1. Create a project in Eclipse on Ygritte called "abstraction" and complete the [Abstract Classes Tutorial](http://examples.javacodegeeks.com/java-basics/java-abstract-class-example/).
