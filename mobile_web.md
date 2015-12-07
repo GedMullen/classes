@@ -3,7 +3,6 @@
 1 . [Unit Descriptor](https://www.sqa.org.uk/files/hn/H17J34.pdf)
 <br>2 . [W3Schools HTML](http://www.w3schools.com/html/)
 <br>3 . [W3Schools CSS](http://www.w3schools.com/css/)
-<br>4 . [JQuery Mobile Overview - IBM](http://www.ibm.com/developerworks/library/wa-jqmobile/)
 <br>5 . [W3Schools JQuery Mobile](http://www.w3schools.com/jquerymobile/default.asp)
 
 ## Exercises 
