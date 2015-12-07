@@ -6,6 +6,8 @@
 [Important Quote](https://drive.google.com/file/d/0B-CFaefA1v4ReFltRmFuY29XS0U/view?usp=docslist_api)
 <br>4 . [Java A Beginners Guide Book](http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=java+a+beginners+guide)
 <br>5 . [Instruments Tutorial UML Diagram](https://drive.google.com/open?id=0B-CFaefA1v4RZ0toaXVfeTBYa0U)
+<br>6 . [Exercise 2 UML Diagram Hint](https://drive.google.com/file/d/0B-CFaefA1v4RR3d2ekxQZ3hFLWs/view?usp=sharing)
+
 ##Exercises
 
 1. Create a project in Eclipse on Ygritte called "abstraction" and complete the [Abstract Classes Tutorial](http://examples.javacodegeeks.com/java-basics/java-abstract-class-example/).
