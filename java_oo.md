@@ -1,6 +1,6 @@
 # Week 13 - Thursday
 
-1. [Unit Descriptor Review](http://www.sqa.org.uk/files/hn/H17135.pdf)
+1 . [Unit Descriptor Review](http://www.sqa.org.uk/files/hn/H17135.pdf)
 <br>2 . [Book - Java In Easy Steps](http://www.amazon.co.uk/Java-Easy-Steps-4th-Edition/dp/1840784431/ref=dp_ob_title_bk)
 
 ##Exercises
