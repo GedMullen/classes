@@ -6,7 +6,8 @@
 ##Exercises
 
 1. Complete the "Catching Exceptions" section in chapter 4 of Java in Easy Steps. 
-
+2. [Additional Exception Tutorial](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
+ 
 # Week 13
 
 1 . Last class - review.
