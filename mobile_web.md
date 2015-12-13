@@ -1,3 +1,9 @@
+# Week 2
+
+1 . LO1 Assessment due 7.1.16 (See iLearn)
+1 . [Mobile Phone OS Market Share](http://www.idc.com/prodserv/smartphone-os-market-share.jsp)
+1 . [Apple v Android App Store](http://mobiledevices.about.com/od/additionalresources/a/Ios-App-Store-Vs-Google-Play-Store-For-App-Developers.htm)
+
 # Week 1
 
 1 . [Unit Descriptor](https://www.sqa.org.uk/files/hn/H17J34.pdf)
