@@ -4,7 +4,7 @@
 1 . [Mobile Phone OS Market Share](http://www.idc.com/prodserv/smartphone-os-market-share.jsp)
 1 . [Apple v Android App Store](http://mobiledevices.about.com/od/additionalresources/a/Ios-App-Store-Vs-Google-Play-Store-For-App-Developers.htm)
 1 . [Native v Web Apps](https://docs.google.com/presentation/d/1xQCI7S7X_4rVDZWJ8ZWuXp1oHm4957Jv9leLL_kAvOg/edit?usp=docslist_api)
-
+1 . [Web Apps Legislation](https://docs.google.com/presentation/d/19Hok8rf60JAQLhROpDj0E4vBtJSE2gR5d-WJrzKE-SI/edit?usp=docslist_api)
 # Week 1
 
 1 . [Unit Descriptor](https://www.sqa.org.uk/files/hn/H17J34.pdf)
