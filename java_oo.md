@@ -2,7 +2,7 @@
 
 1 . [The Dice Project](https://docs.google.com/document/d/1x4di3KQ91eFLYoXOfMrPvNFMIF6DJK_kZ2B8uT3vMmw/edit?usp=docslist_api)
 <br>2 . [DiceGame.java verson 1](https://gist.github.com/GedMullen/f363bc3d29695578be67)
-<br>3 . [DiceGame UML](https://drive.google.com/file/d/0B-CFaefA1v4RcHdKR3A3dkJDWk0/view?usp=sharing)
+<br>3 . [DiceGame Part 1 UML](https://drive.google.com/file/d/0B-CFaefA1v4RcHdKR3A3dkJDWk0/view?usp=sharing)
 
 # Week 13 - Thursday
 
