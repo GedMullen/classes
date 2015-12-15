@@ -1,6 +1,7 @@
 # Week 14
 
 1 . [The Dice Project](https://docs.google.com/document/d/1x4di3KQ91eFLYoXOfMrPvNFMIF6DJK_kZ2B8uT3vMmw/edit?usp=docslist_api)
+<br>2 . [DiceGame.java verson 1](https://gist.github.com/GedMullen/f363bc3d29695578be67)
 
 # Week 13 - Thursday
 
