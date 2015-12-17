@@ -5,6 +5,8 @@
 <br>3 . [DiceGame Part 1 UML](https://drive.google.com/file/d/0B-CFaefA1v4RcHdKR3A3dkJDWk0/view?usp=sharing)
 <br>4 . [DiceGame.java part 2](https://gist.github.com/GedMullen/2c5ccbb323fe78311720) [Dice.java part 2](https://gist.github.com/GedMullen/4ade39767ed62fb6e454)
 <br>5 . [DiceGame.java part 3](https://gist.github.com/GedMullen/9118b3725a39642e78f9) 
+<br>6 . [DiceGame.java part 4](https://gist.github.com/GedMullen/c5d9c7d4c049df6b70bc)  [Player.java part 4](https://gist.github.com/GedMullen/2c5f6fddc8987e6f182d)
+
 # Week 13 - Thursday
 
 1 . [Unit Descriptor Review](http://www.sqa.org.uk/files/hn/H17135.pdf)
