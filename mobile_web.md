@@ -1,3 +1,7 @@
+# Week 3
+
+1 . [Block 2 Assessment Schedule](https://docs.google.com/document/d/14GpeD6jR-z7aE6ZeDBD8Ahznu3UD-DID7TrzZItXoJw/edit?usp=docslist_api)
+
 # Week 2
 
 1 . LO1 Assessment due 7.1.16 (See iLearn)
