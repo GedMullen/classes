@@ -1,3 +1,6 @@
+<!--http://c2.com/doc/oopsla89/paper.html
+-->
+
 # Week 14
 
 1 . [The Dice Project](https://docs.google.com/document/d/1x4di3KQ91eFLYoXOfMrPvNFMIF6DJK_kZ2B8uT3vMmw/edit?usp=docslist_api)
