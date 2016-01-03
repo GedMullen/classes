@@ -1,8 +1,8 @@
 # Week 3
 
 1 . [Block 2 Assessment Schedule](https://docs.google.com/document/d/14GpeD6jR-z7aE6ZeDBD8Ahznu3UD-DID7TrzZItXoJw/edit?usp=docslist_api)
-2 . [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api)
-3 . [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api)
+<br>2 . [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api)
+<br>3 . [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api)
 
 ## Exercises 
 1. Create a new eclipse project on Ygritte and complete [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api) and [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api).
