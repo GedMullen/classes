@@ -5,7 +5,7 @@
 <br>3 . [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api)
 
 ## Exercises 
-1. Create a new eclipse project on Ygritte and complete [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api) and [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api).
+1. Create an eclipse project on Ygritte called "jqmexercises" and complete [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api) and [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api).
 
 # Week 2
 
