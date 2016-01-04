@@ -1,10 +1,10 @@
 # Week 3
 
-1 . [Select](http://www.w3schools.com/sql/sql_select.asp
-<br>2 . [Where](http://www.w3schools.com/sql/sql_where.asp
-<br>2 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp
-<br>2 . [Count](http://www.w3schools.com/sql/sql_func_count.asp
-<br>2 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp
+1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
+<br>2 . [Where](http://www.w3schools.com/sql/sql_where.asp)
+<br>2 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
+<br>2 . [Count](http://www.w3schools.com/sql/sql_func_count.asp)
+<br>2 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
 
 ##Exercises
 
