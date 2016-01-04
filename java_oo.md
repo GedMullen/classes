@@ -17,7 +17,7 @@ http://c2.com/doc/oopsla89/paper.html
 1. Think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a directory on Ygritte called "ooad" and create a file called checkout.txt in that directory to document your use case scenario. Make sure you include the precondition and trigger for the scenario.
 2. Create an alternative path/scenario for a shopping basket that includes alcohol.
 3. Create a separate Use Case that details the process of a checkout assistant checking the amount of money in the self service machine.
-4. Create a System Level Use Case diagram for the two use cases above. 
+4. Create a System Level Use Case diagram for the two use cases above using draw.io.
 
 
 
