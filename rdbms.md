@@ -15,7 +15,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>3 . Use the SQL created in 2 to create a list showing only the first name, last name and DOB.
 <br>4 . Sort the output in 3 by first name.
 <br>5 . Sort the output in 3 by DOB.
-<br>6 . List all employees whose DOB is 18/1/1962.
+<br>6 . List all employees whose DOB is 18/1/1962 (dates can be refernced as strings - birth_date = '1961-08-29')
 <br>7 . Who is the oldest employee?
 <br>8 . Who is the newest employee?
 <br>9 . List all female employees that were born in the 60s.
