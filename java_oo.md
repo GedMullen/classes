@@ -1,7 +1,7 @@
 # Week 15
 
 1 . [Block 2 Assessment Schedule](https://docs.google.com/document/d/14GpeD6jR-z7aE6ZeDBD8Ahznu3UD-DID7TrzZItXoJw/edit?usp=docslist_api)
-
+2 . [Page 32 of Java Book](https://drive.google.com/file/d/0B-CFaefA1v4RZm9YakVIZWt1UDg/view?usp=sharing)
 
 <!--
 use case examples
