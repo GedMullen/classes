@@ -1,8 +1,16 @@
 # Week 3
 
+1 . [Select](http://www.w3schools.com/sql/sql_select.asp
+<br>2 . [Where](http://www.w3schools.com/sql/sql_where.asp
+<br>2 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp
+<br>2 . [Count](http://www.w3schools.com/sql/sql_func_count.asp
+<br>2 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp
+
+##Exercises
+
 Create a directory on Ygritte called "sqlexercises" and create a file in that directory called "wk3.sql". Write SQL in wk3.sql to output the information from the employees database detailed in the tasks below. Once you have successfully completed each of the tasks use [comments](http://dev.mysql.com/doc/refman/5.7/en/comments.html) to comment out the SQL commands you have completed before moving on to the next task (don't delete the code you have completed). 
 
-1 . A list of all female employees.
+1 . A list of the first 10 female employees (use LIMIT 10).
 <br>2 . A list of female employees that have a last name of “Gils”
 <br>3 . Use the SQL created in 2 to create a list showing only the first name, last name and DOB.
 <br>4 . Sort the output in 3 by first name.
