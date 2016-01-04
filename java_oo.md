@@ -1,8 +1,13 @@
+# Week 15
+
+1 . [Block 2 Assessment Schedule](https://docs.google.com/document/d/14GpeD6jR-z7aE6ZeDBD8Ahznu3UD-DID7TrzZItXoJw/edit?usp=docslist_api)
+
+
 <!--
 use case examples
 http://www.usability.gov/how-to-and-tools/methods/use-cases.html
 http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html
-
+Ch3 UML Distilled Use Cases
 crc cards
 http://c2.com/doc/oopsla89/paper.html
 -->
