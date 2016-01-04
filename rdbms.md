@@ -1,4 +1,22 @@
-# Week 1
+# Week 3
+
+Create a directory on Ygritte called "sqlexercises" and create a file in that directory called "wk3.sql". Write SQL in wk3.sql to output the information from the employees database in the tasks below. Once you have successfully completed each of the tasks use [comments](http://dev.mysql.com/doc/refman/5.7/en/comments.html) to comment out the SQL commands you have completed before moving on to the next task (don't delete the code you have completed). 
+
+1 . A list of all female employees.
+<br>2 . A list of female employees that have a last name of “Gils”
+<br>3 . Use the SQL created in 2 to create a list showing only the first name, last name and DOB.
+<br>4 . Sort the output in 3 by first name.
+<br>5 . Sort the output in 3 by DOB.
+<br>6 . List all employees whose DOB is 18/1/1962.
+<br>7 . Who is the oldest employee?
+<br>8 . Who is the newest employee?
+<br>9 . List all female employees that were born in the 60s.
+<br>10 . List all male employees that were hired in the 80s.
+<br>11 . Count the number of employees in the employees database.
+<br>12 . Count the number of female employees that were born in the 50s.
+
+
+# Week 1 & 2
 
 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
 <br> 2 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
