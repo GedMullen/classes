@@ -1,16 +1,24 @@
+<!--
+use case examples
+crc cards
+http://c2.com/doc/oopsla89/paper.html
+-->
+
 # Week 15
 
 1 . [Block 2 Assessment Schedule](https://docs.google.com/document/d/14GpeD6jR-z7aE6ZeDBD8Ahznu3UD-DID7TrzZItXoJw/edit?usp=docslist_api)
 <br>2 . [Page 32 of Java Book](https://drive.google.com/file/d/0B-CFaefA1v4ReTBMTlRmU05uSHM/view?usp=sharing)
+<br>3 . [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+<br>4 . [Use Case Example - ATM](http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html)
+<br>5 . [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
 
-<!--
-use case examples
-http://www.usability.gov/how-to-and-tools/methods/use-cases.html
-http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html
-Ch3 UML Distilled Use Cases
-crc cards
-http://c2.com/doc/oopsla89/paper.html
--->
+## Exercises
+
+1. Think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a directory on Ygritte called "ooad" and create a file called checkout.txt in that directory to document your use case scenario. Make sure you include 
+2. 
+
+
+
 
 # Week 14
 
