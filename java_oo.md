@@ -18,7 +18,7 @@ http://c2.com/doc/oopsla89/paper.html
 2. Create an alternative path/scenario for a shopping basket that includes alcohol.
 3. Create a separate Use Case that details the process of a checkout assistant checking the amount of money in the self service machine.
 4. Create a System Level Use Case diagram for the two use cases above using draw.io.
-5. Identify 4 outher Use Cases associated with a computer system that serves a supermarket. Draw a system level use case diagram that shows these scenarios. 
+5. Identify 4 other Use Cases associated with a computer system that serves a supermarket. Draw a system level use case diagram that shows these scenarios. 
 6. Create a System Level Use Case diagram form the client brief in iLearn.
 
 # Week 14
