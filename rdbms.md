@@ -2,10 +2,11 @@
 
 1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
 <br>2 . [Where](http://www.w3schools.com/sql/sql_where.asp)
-<br>2 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
-<br>2 . [Count](http://www.w3schools.com/sql/sql_func_count.asp)
-<br>2 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
-<br>2 . [http://www.w3schools.com/sql/sql_join.asp]
+<br>3 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
+<br>4 . [Count](http://www.w3schools.com/sql/sql_func_count.asp)
+<br>5 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
+<br>6 . [http://www.w3schools.com/sql/sql_join.asp]
+
 ##Exercises
 
 Create a directory on Ygritte called "sqlexercises" and create a file in that directory called "wk3.sql". Write SQL in wk3.sql to output the information from the employees database detailed in the tasks below. Once you have successfully completed each of the tasks use [comments](http://dev.mysql.com/doc/refman/5.7/en/comments.html) to comment out the SQL commands you have completed before moving on to the next task (don't delete the code you have completed). 
