@@ -5,7 +5,7 @@
 <br>3 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
 <br>4 . [Count](http://www.w3schools.com/sql/sql_func_count.asp)
 <br>5 . [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
-<br>6 . [http://www.w3schools.com/sql/sql_join.asp]
+<br>6 . [Joins](http://www.w3schools.com/sql/sql_join.asp)
 
 ##Exercises
 
