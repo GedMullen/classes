@@ -7,7 +7,7 @@
 <br> 4 . [mysqlexample.php](https://gist.github.com/GedMullen/f58ea879c98ada9ca055)
 <br> 5 . If you are unfamiliar with the Linux command line then this will help - [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 <br> 6 . See [w3schools](http://www.w3schools.com) to brush up on your PHP, SQL, HTML and CSS. 
-<br> 7 . ERD of database used in exercises - [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+<br> 7 . ERD of the database used in exercises - [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 8 . You can start a PHP server on Ygritte by issuing the following command (replace ??? with your unique port number):
 ```
 php -S localhost:8??? 
