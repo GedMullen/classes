@@ -19,7 +19,7 @@ mysql -t -u student < myscript.sql
 
 ## Exercises
 
-The following exercises are designed to help you refamiliarise yourself with PHP, MySQL, HTML and CSS you should use [mysqlexample.php](https://gist.github.com/GedMullen/f58ea879c98ada9ca055) and the tutorials above as a starting point.
+The following exercises are designed to help you refamiliarise yourself with PHP, MySQL, HTML and CSS. You should use [mysqlexample.php](https://gist.github.com/GedMullen/f58ea879c98ada9ca055) and the tutorials above as a starting point.
 
 1 . Create an eclipse project on Ygritte called "week1exercises" and include the answers to the following exercises in this project. 
 2 . Create a PHP file that generates a HTML table that details the top 10 salaries in the employees database (hint - use ORDER BY and LIMIT 10). You will need to join the EMPLOYEES and SALARIES tables.
