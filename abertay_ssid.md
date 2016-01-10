@@ -9,7 +9,8 @@
 <br> 7 . See [w3schools](http://www.w3schools.com) to brush up on your PHP, SQL, HTML and CSS. 
 <br> 2 . ERD of database used in exercise [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 2 . You can start a PHP server on Ygritte by issuing the following command (replace ??? with your unique port number):
-`php -S localhost:8??? 
-
+```
+php -S localhost:8??? 
+```
 ## Exercises
 
