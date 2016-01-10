@@ -5,10 +5,16 @@
 <br>3 . [UI Design For Mobile Devices](https://drive.google.com/file/d/0B-CFaefA1v4RQXl2Q1A5M3hCRG8/view?usp=docslist_api)
 <br>4 . [Designing Mobile Apps](https://drive.google.com/file/d/0B-CFaefA1v4RTU1pZWVUN1VodEE/view?usp=docslist_api)
 <br>5 . [Web App Tutorial](http://www.noupe.com/development/jquery-mobile-tutorial-creating-a-restaurant-picker-web-app.html)
-
+<br>6 . [Typograhy](http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/)
+<br>7 . [Mobile Design Typograhy](http://designmodo.com/mobile-design-typography/)
+<br>9 . [Colour Psychology For Mobile Apps](http://www.neobytesolutions.com/color-psychology-for-mobile-apps/)
+<br>10 . [Themes Tutorial](http://www.noupe.com/development/a-deeper-dive-into-jquery-mobile-themes-75416.html)
+<br>11 . [Example App Designs](http://www.1stwebdesigner.com/mobile-apps-designs/)
 
 ## Exercises 
 
+1 . Complete Week 3 Exercises,
+<br>2. Create an eclipse project on Ygritte called "jqmexerciseswk4" and complete [Week 4 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api) using 
 
 # Week 3
 
