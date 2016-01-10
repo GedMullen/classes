@@ -1,7 +1,7 @@
 # Week 4
 
 1 . [Week 4 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api)
-<br>2 . [Example Icons](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api)
+<br>2 . [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api)
 <br>3 . [UI Design For Mobile Devices](https://drive.google.com/file/d/0B-CFaefA1v4RQXl2Q1A5M3hCRG8/view?usp=docslist_api)
 <br>4 . [Designing Mobile Apps](https://drive.google.com/file/d/0B-CFaefA1v4RTU1pZWVUN1VodEE/view?usp=docslist_api)
 
