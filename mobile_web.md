@@ -1,3 +1,13 @@
+# Week 4
+
+1 . [Week 4 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api)
+2 . [Example Icons](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api)
+3 . [UI Design For Mobile Devices](https://drive.google.com/file/d/0B-CFaefA1v4RQXl2Q1A5M3hCRG8/view?usp=docslist_api
+4 . [Designing Mobile Apps](https://drive.google.com/file/d/0B-CFaefA1v4RTU1pZWVUN1VodEE/view?usp=docslist_api)
+
+## Exercises 
+
+
 # Week 3
 
 1 . [Block 2 Assessment Schedule](https://docs.google.com/document/d/14GpeD6jR-z7aE6ZeDBD8Ahznu3UD-DID7TrzZItXoJw/edit?usp=docslist_api)
