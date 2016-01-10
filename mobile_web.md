@@ -4,6 +4,8 @@
 <br>2 . [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api)
 <br>3 . [UI Design For Mobile Devices](https://drive.google.com/file/d/0B-CFaefA1v4RQXl2Q1A5M3hCRG8/view?usp=docslist_api)
 <br>4 . [Designing Mobile Apps](https://drive.google.com/file/d/0B-CFaefA1v4RTU1pZWVUN1VodEE/view?usp=docslist_api)
+<br>5 . [Web App Tutorial](http://www.noupe.com/development/jquery-mobile-tutorial-creating-a-restaurant-picker-web-app.html)
+
 
 ## Exercises 
 
