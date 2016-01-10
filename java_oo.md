@@ -2,6 +2,11 @@
 use case examples
 crc cards
 http://c2.com/doc/oopsla89/paper.html
+# Week 16
+
+1 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+<br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
+<br>3 . [CRC Cards Tutorial](http://c2.com/doc/oopsla89/paper.html)
 -->
 
 # Week 15
