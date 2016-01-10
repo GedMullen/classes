@@ -14,7 +14,9 @@
 ## Exercises 
 
 1 . Complete Week 3 Exercises,
-<br>2. Create an eclipse project on Ygritte called "jqmexerciseswk4" and complete [Week 4 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api) using 
+<br>2. Create an eclipse project on Ygritte called "jqmexerciseswk4" and complete [Week 4 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api) using [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api).
+<br>3 . Read the links above on designing mobile web apps.
+<br>4 . The assessments for L02 and L03 are on iLearn. The deadline for these assessments is 11pm on Thursday 28.1.16. You should upload the L02 assessment (design document) to iLearn. For the L03 assessment (jQuery Mobile App) create a project in eclipse on Ygritte called "jqmassessment" and write your code in this project - the app needs to be completed by the deadline. 
 
 # Week 3
 
