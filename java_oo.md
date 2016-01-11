@@ -5,9 +5,19 @@ http://c2.com/doc/oopsla89/paper.html
 # Week 16
 
 1 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+http://agilemodeling.com/artifacts/crcModel.htm
 <br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
 <br>3 . [CRC Cards Tutorial](http://c2.com/doc/oopsla89/paper.html)
 -->
+# Week 16
+1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
+<br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
+<br>3 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+
+## Exercises
+
+1. Create CRC cards in a file called checkout_crc.txt in your ooad directory on Ygritte from the use case scenario you created in Week 15 Exercise 1.
+2. Use draw.io to create a conceptual class diagram from your CRC cards.
 
 # Week 15
 
