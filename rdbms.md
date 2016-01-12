@@ -39,7 +39,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>13 . What is the employee id of the person with the highest salary?
 <br>14 . Use the employee id identified in Q1 to locate the employee details from the salaries table. 
 <br>15 . Find the employee details of the person with the lowest salary.
-<br>16 . List all the salaries of Berni Sanella DOB 29/8/61 - oder the query by to_date;
+<br>16 . List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
 <!--
 <br>12 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
 <br>12 . Create an alias for the pension column in Q5 called “Pension”.
