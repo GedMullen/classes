@@ -2,6 +2,7 @@
 
 1 . [GitHub Is Your New CV](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
 <br>2 . [GitHub Home](https://github.com/)
+<br>3 . [Example Profile](https://github.com/marijnh)
 
 ##Exercises
 
