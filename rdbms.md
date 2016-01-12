@@ -1,3 +1,14 @@
+# Week 4
+
+1 . [GitHub Is Your New CV](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
+<br>2 . [GitHub Home](https://github.com/)
+
+##Exercises
+
+1 . Complete the following [GitHub Exercises](https://docs.google.com/document/d/1CWRBnj2pL_RIDAdgzoiZjm_fWHf_yznotVnGvG21lyk/edit?usp=sharing)
+<br>2 . Add a file called <yourname>sqlchallenges.md to the Fife College blue private repository 
+
+
 # Week 3
 
 1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
