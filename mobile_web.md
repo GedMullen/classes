@@ -1,6 +1,7 @@
 <!--
 http://www.sitepoint.com/gif-jpg-png-whats-difference/
 http://lifehacker.com/learn-when-to-use-jpeg-gif-or-png-with-this-graphic-1669336151
+http://iconhandbook.co.uk/reference/chart/android/
 -->
 
 # Week 4
