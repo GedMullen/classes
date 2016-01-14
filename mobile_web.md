@@ -1,3 +1,7 @@
+<!--
+http://www.sitepoint.com/gif-jpg-png-whats-difference/
+-->
+
 # Week 4
 
 1 . [Week 4 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api)
