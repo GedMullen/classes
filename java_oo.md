@@ -1,14 +1,12 @@
-<!--
-use case examples
-crc cards
-http://c2.com/doc/oopsla89/paper.html
-# Week 16
+# Week 17
+1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
+<br>2 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 
-1 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
-http://agilemodeling.com/artifacts/crcModel.htm
-<br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
-<br>3 . [CRC Cards Tutorial](http://c2.com/doc/oopsla89/paper.html)
--->
+## Exercises
+
+1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create CRC card files in your ooad directory on Ygritte. Name the files usecase1.txt usecase2.txt etc.
+2 . Create conceptual class daigrams for each of the use cases.
+
 # Week 16
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
 <br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
