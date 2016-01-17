@@ -5,7 +5,7 @@
 ## Exercises
 
 1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create CRC card files in your ooad directory on Ygritte. Name the files usecase1.txt usecase2.txt etc.
-2 . Create conceptual class daigrams for each of the use cases.
+<br>2 . Create conceptual class daigrams for each of the use cases.
 
 # Week 16
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
