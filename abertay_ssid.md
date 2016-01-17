@@ -11,7 +11,11 @@
 ```
 mysql -t -u student < users.sql
 ```
-
+<br> 3 . Create a "working_example" project on Ygritte and create a form that allows the user to enter in a user id and password. The page should then check the user id and password against the data that is stored in the users table and indicate to the user if the login attempt was successful.
+<br> 4 . Add functionality to your site by allowing the user to register. This will involve capturing the name of the user and user password and inserting the information into the users table.
+<br> 5 . Create a profile page that allows the user to see the information that they entered when they registered.
+<br> 6 . Allow the users to change their profile information.
+<br> 7 . Look at [PHP Sessions](http://www.w3schools.com/php/php_sessions.asp). Add session management to your site. 
 <!--
 users.sql
 https://gist.github.com/GedMullen/11312ef28b66bf70eedf
