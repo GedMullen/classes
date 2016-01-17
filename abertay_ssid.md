@@ -1,6 +1,22 @@
+# Week 2
+
+1 . [SQL Create Table](http://www.w3schools.com/sql/sql_create_table.asp)
+<br> 2 . [SQL Insert](http://www.w3schools.com/sql/sql_insert.asp)
+<br> 3 . [SQL Join](http://www.w3schools.com/sql/sql_join_inner.asp)
+<br> 4 . [PHP Sessions](http://www.w3schools.com/php/php_sessions.asp)
+## Exercises
+
+1 . Complete Week 1 exercises using [week1exercises.php](https://gist.github.com/GedMullen/fa29fe3338a7582dbf77) and [surname.php](https://gist.github.com/GedMullen/140f12537a67b8e657fa). Make sure you do this in your "week1exercises" project on Ygritte. 
+<br> 2 . Create a separate a table "users" in your own database using [users.sql]](https://gist.github.com/GedMullen/11312ef28b66bf70eedf). E 
+```
+mysql -t -u student < users.sql
+```
+
 <!--
+users.sql
+https://gist.github.com/GedMullen/11312ef28b66bf70eedf
 
-
+week1exercises.php
 https://gist.github.com/GedMullen/fa29fe3338a7582dbf77
 
 surname.php
