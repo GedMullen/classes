@@ -1,8 +1,9 @@
-# Week 4
+# Week 5
 
-<br>2 . [Image Formats](http://www.sitepoint.com/gif-jpg-png-whats-difference/)
+<br>1 . [Image Formats](http://www.sitepoint.com/gif-jpg-png-whats-difference/)
 <br>2 . [When to use PNGs](http://lifehacker.com/learn-when-to-use-jpeg-gif-or-png-with-this-graphic-1669336151)
-<br>2 . [Icon sizes](http://iconhandbook.co.uk/reference/chart/android/)
+<br>3 . [Icon sizes](http://iconhandbook.co.uk/reference/chart/android/)
+<br>4 . [Inkscape Tutorials](https://inkscape.org/en/learn/tutorials/)
 
 # Week 4
 
