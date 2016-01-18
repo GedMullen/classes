@@ -5,7 +5,7 @@
 
 ##Exercises
 
-Create a "wk4.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
+Create a "wk5.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
 
 1 . Berni Sanella DOB 29/8/61 contributed 10% of her  salary (salary/0.1) to her pension. How much per annum did she pay into her pension for each of her salaries? Create a query to output the pension contributions for each of her salaries.
 <br>2 . Create an alias for the pension column in Q1 called “Pension”.
