@@ -1,5 +1,7 @@
-http://www.w3schools.com/sql/sql_alias.asp
-http://www.w3schools.com/sql/sql_dates.asp
+# Week 5
+
+1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
+<br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
 
 ##Exercises
 
