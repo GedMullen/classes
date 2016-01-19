@@ -5,15 +5,27 @@
 <br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
 
 ##Exercises
-
-Create a "wk5.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
+Make sure you have added your SQL challenge detailed in Week 4 Exercies to the blue repository. 
+<br>Create a "wk5.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
 
 1 . Berni Sanella DOB 29/8/61 contributed 10% of her  salary (salary * 0.1) to her pension. How much per annum did she pay into her pension for each of her salaries? Create a query to output the pension contributions for each of her salaries.
 <br>2 . Create an alias for the pension column in Q1 called “Pension”.
 <br>3 . How much was Berni paid in the month of October 1997 ( salary / 12 )?
 <br>4 . List the first/last name and gender of all the department managers and include the department name in this list (requires 2 table joins).
 <br>5 . List the first/last name of all employees that work in Sales (2 table joins required).
-List the first/last name of all the employees that have worked for Margareta Markovitch.
+<br>6 . List the first/last name of all the employees that have worked for Margareta Markovitch.
+<br>7 . Display the birth date and hire date of Berni Sanella in the format “21 January 2015”. Use appropriate column aliases so that the data is displayed in a meaningful way. 
+<br>8 . Use the DATEDIFF function to determine how long ago Berni Sanella was hired. 
+<br>9 . Use the DATEDIFF function to determine how old in years Berni Sanell is (divide by 365).
+<br>10 . How old was Berni when she was hired?
+<br>11 . Assume that the maximum to_date in the salaries table determines when an employee left the company. How old was Berni when she left the company?
+<br>12 . What is the name of the department that has the most employees on 1.1.1990?
+<br>13 . What is the name of the manager that has the least employees on 1.1.1990?
+<br>14 . What is the most common employee title in the company on 1.1.1990?
+<br>15 . How many people have the least common title on 1.1.1990?
+<br>16 . Which department has the least number of females on 1.1.1990?
+<br>17 . Continue with solving the SQL challenges of your fellow students. 
+
 
 # Week 4
 
