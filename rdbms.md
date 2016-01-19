@@ -8,7 +8,7 @@
 
 Create a "wk5.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
 
-1 . Berni Sanella DOB 29/8/61 contributed 10% of her  salary (salary/0.1) to her pension. How much per annum did she pay into her pension for each of her salaries? Create a query to output the pension contributions for each of her salaries.
+1 . Berni Sanella DOB 29/8/61 contributed 10% of her  salary (salary * 0.1) to her pension. How much per annum did she pay into her pension for each of her salaries? Create a query to output the pension contributions for each of her salaries.
 <br>2 . Create an alias for the pension column in Q1 called “Pension”.
 <br>3 . How much was Berni paid in the month of October 1997 ( salary / 12 )?
 <br>4 . List the first/last name and gender of all the department managers and include the department name in this list (requires 2 table joins).
