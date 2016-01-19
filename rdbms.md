@@ -2,6 +2,7 @@
 
 1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
 <br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
+<br>2 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
 
 ##Exercises
 
