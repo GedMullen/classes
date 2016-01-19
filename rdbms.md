@@ -3,6 +3,7 @@
 1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
 <br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
 <br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
+<br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
 
 ##Exercises
 Make sure you have added your SQL challenge detailed in Week 4 Exercies to the blue repository. 
