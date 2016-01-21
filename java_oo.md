@@ -8,7 +8,7 @@
 <br>2 . Create CRC cards for the following [KitBuildIt senario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing)  in a file in your ooad directory on Ygritte called kitbuildit.txt.
 <br>3 . Create conceptual class daigram for KitBuildIt.
 <br>4 . Create CRC cards for the following [RitePrice senario](https://docs.google.com/document/d/1UpPiSM-FM419uq4TGYwu3sv_oFBtG0l_cS3jlbBHayo/edit?usp=sharing) in a file in your ooad directory on Ygritte called riteprice.txt.
-<br>5 . Create conceptual class daigram for RitePrice.
+<br>5 . Create a class daigram for RitePrice and include methods and fields.
 
 # Week 16
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
