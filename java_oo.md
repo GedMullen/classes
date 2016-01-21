@@ -1,6 +1,7 @@
 # Week 17
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
 <br>2 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+<br>3 . [CRC Answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing)
 
 ## Exercises
 
