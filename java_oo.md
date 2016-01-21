@@ -5,9 +5,10 @@
 ## Exercises
 
 1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create CRC card files in your ooad directory on Ygritte. Name the files usecase1.txt usecase2.txt etc.
-<br>2 . Create conceptual class daigrams for each of the use cases.
-<br>3 . Create CRC cards for the following [RitePrice senario](https://docs.google.com/document/d/1UpPiSM-FM419uq4TGYwu3sv_oFBtG0l_cS3jlbBHayo/edit?usp=sharing) in a file in your ooad directory on Ygritte called riteprice.txt.
-<br>4 . Create conceptual class daigram for RitePrice.
+<br>2 . Create CRC cards for the following [KitBuildIt senario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing)  in a file in your ooad directory on Ygritte called kitbuildit.txt.
+<br>3 . Create conceptual class daigram for KitBuildIt.
+<br>4 . Create CRC cards for the following [RitePrice senario](https://docs.google.com/document/d/1UpPiSM-FM419uq4TGYwu3sv_oFBtG0l_cS3jlbBHayo/edit?usp=sharing) in a file in your ooad directory on Ygritte called riteprice.txt.
+<br>5 . Create conceptual class daigram for RitePrice.
 
 # Week 16
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
