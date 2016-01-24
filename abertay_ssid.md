@@ -11,7 +11,17 @@ cp -r /home/share/ssid/. example
  3194  cd example/
  3198  php -S localhost:8765
 ```
-<br> 2 . Run a 
+<br> 2 . Run a PHP server in the example directory:
+
+```
+cd example/
+php -S localhost:8???
+```
+<br> 3 . Point the browser in eclipse to the following php file:
+```
+http://localhost:8???/login.php 
+```
+
 # Week 2
 
 1 . [Book: Learning PHP, MySQL and JavaScript](http://www.amazon.co.uk/Learning-MySQL-JavaScript-Robin-Nixon/dp/0596157134)
