@@ -8,8 +8,6 @@
 cd workspace
 mkdir example
 cp -r /home/share/ssid/. example
- 3194  cd example/
- 3198  php -S localhost:8765
 ```
 <br> 2 . Run a PHP server in the example directory:
 
@@ -21,6 +19,9 @@ php -S localhost:8???
 ```
 http://localhost:8???/login.php 
 ```
+<br> 4 . Import the example project into eclipse.
+<br> 5 . Using your knowledge of PHP identify improvements to the code.
+<br> 6 . Start to implement the Gardeners Portal.
 
 # Week 2
 
