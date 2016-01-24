@@ -21,7 +21,7 @@ http://localhost:8???/login.php
 ```
 <br> 4 . Import the example project into eclipse.
 <br> 5 . Using your knowledge of PHP identify improvements to the code.
-<br> 6 . Create a "gardeners" project in eclipse on Ygritte and start to implement the [Gardeners Portal](https://docs.google.com/document/d/19rUg3pTqK1nwnDRaE1AgclOs9Y9GMu2bJpdSQIOg_Vg/edit?usp=docslist_api). For ease of identification (for me!) call the first page of your site index.html and include in it links to the login page and public advertisements page. You are required to add CSS to your site.   
+<br> 6 . Create a "gardeners" project in eclipse on Ygritte and start to implement the [Gardeners Portal](https://docs.google.com/document/d/19rUg3pTqK1nwnDRaE1AgclOs9Y9GMu2bJpdSQIOg_Vg/edit?usp=docslist_api). For ease of identification (for me!) call the first page of your site "index.html" and include in it links to the login page and public advertisements page. You are required to add CSS to your site.   
 
 # Week 2
 
