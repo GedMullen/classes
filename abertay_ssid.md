@@ -1,3 +1,17 @@
+# Week 3
+
+## Exercises
+
+1 . Copy the example eclipse PHP project to your worksapce using the following commands:
+
+```
+cd workspace
+mkdir example
+cp -r /home/share/ssid/. example
+ 3194  cd example/
+ 3198  php -S localhost:8765
+```
+<br> 2 . Run a 
 # Week 2
 
 1 . [Book: Learning PHP, MySQL and JavaScript](http://www.amazon.co.uk/Learning-MySQL-JavaScript-Robin-Nixon/dp/0596157134)
