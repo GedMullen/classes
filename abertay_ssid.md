@@ -15,7 +15,7 @@ cp -r /home/share/ssid/. example
 cd example/
 php -S localhost:8???
 ```
-<br> 3 . Point the browser in eclipse to the following php file:
+<br> 3 . Point the browser in eclipse to the following PHP file:
 ```
 http://localhost:8???/login.php 
 ```
