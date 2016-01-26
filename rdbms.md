@@ -22,7 +22,7 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 <br>3 . How much was Berni paid in the month of October 1997 ( salary / 12 )?
 <br>4 . List the first/last name and gender of all the department managers and include the department name in this list (requires 2 table joins).
 <br>5 . List the first/last name of all employees that work in Sales (2 table joins required).
-<br>6 . List the first/last name of all the employees that have worked for Margareta Markovitch.
+<br>6 . List the first/last name of all the employees that have worked for Margareta Markovitch. (TOO DIFFICULT!)
 <br>7 . Display the birth date and hire date of Berni Sanella in the format “21 January 2015”. Use appropriate column aliases so that the data is displayed in a meaningful way. 
 <br>8 . Use the DATEDIFF function to determine how long ago Berni Sanella was hired. 
 <br>9 . Use the DATEDIFF function to determine how old in years Berni Sanell is (divide by 365).
