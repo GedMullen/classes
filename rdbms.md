@@ -1,3 +1,10 @@
+# Week 6
+
+1 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
+2 . [Answers to some Week 5 Exercises]()
+
+##Exercises
+1 . Continue with the exercises from Week 5.
 # Week 5
 
 1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
