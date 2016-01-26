@@ -1,7 +1,7 @@
 # Week 6
 
 1 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
-<br>2 . [Answers to some Week 5 Exercises]()
+<br>2 . [Answers to some Week 5 Exercises](https://gist.github.com/GedMullen/b357064b7a1d6ca2f497)
 
 ##Exercises
 1 . Read the tutorial on [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
