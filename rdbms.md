@@ -6,7 +6,9 @@
 ##Exercises
 1 . Read the tutorial on [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
 <br>2 . Continue with the exercises from Week 5.
-<br>3 . Show the top 10 employees that have moved department the most.
+<br>3 . Show the top 10 employees that have moved department the most. (use file wk6.sql) 
+<br>4 . Are there any employees that have the same first/last name and DOB?
+
 
 # Week 5
 
