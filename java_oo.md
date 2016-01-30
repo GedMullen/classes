@@ -1,5 +1,6 @@
 # Week 19
-1 . [Sequence Diagrams](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
+1 . [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
+<br>2 . [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
 
 # Week 17 & 18
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
