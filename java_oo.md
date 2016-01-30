@@ -2,7 +2,7 @@
 1 . [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
 <br>2 . [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
 <br>3 . [Activity Diagram Tutorial](http://agilemodeling.com/artifacts/activityDiagram.htm)
-<br>4 . [Statechart Tutorial]((http://agilemodeling.com/artifacts/stateMachineDiagram.htm)
+<br>4 . [Statechart Tutorial](http://agilemodeling.com/artifacts/stateMachineDiagram.htm)
 
 # Week 17 & 18
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
