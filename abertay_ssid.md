@@ -9,7 +9,7 @@
 ```
 /home/share/dvwa
 ```
-You will need to change the database name in the following file:
+You will need to change the database name in the following file (once you have copied it):
 ````
 DWA-1.9/config/config.inc.php
 ````
