@@ -19,7 +19,7 @@ google-chrome
 ````
 <br> 3 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
 <br> 4 . [XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
-<br> 4 . Create a file called ````exploits.txt```` in your home drive on Ygritte and document other SQL Injection and XSS exploits that you can identify. 
+<br> 5 . Create a file called ````exploits.txt```` in your home drive on Ygritte and document other SQL Injection and XSS exploits that you can identify. 
 
 
 
