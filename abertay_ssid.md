@@ -1,3 +1,5 @@
+Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+
 # Week 3
 
 ## Exercises
