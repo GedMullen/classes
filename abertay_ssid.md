@@ -1,8 +1,26 @@
-Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+# Week 3
 
-[Security Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
-[SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
-[XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
+1 . [Security Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
+
+## Exercises
+
+1 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+<br> 2 . Use the instructions in Week 3 Exercises to copy and run the following PHP project: 
+```
+/home/share/dvwa
+```
+You will need to change the database name in the following file:
+````
+DWA-1.9/config/config.inc.php
+````
+Use Chrome rather than the web browser in Eclipse (you will need JavaScript). Run the following command from the terminal:
+````
+google-chrome
+````
+<br> 3 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+<br> 4 . [XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
+
+
 
 # Week 3
 
