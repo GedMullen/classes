@@ -3,6 +3,8 @@ Send me an email with the following [message](https://docs.google.com/document/d
 [Security Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
 # Week 3
 
+[XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
+
 ## Exercises
 
 1 . Copy the example eclipse PHP project to your worksapce using the following commands:
