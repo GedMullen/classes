@@ -1,9 +1,11 @@
 Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
 
 [Security Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
+[SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+[XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
+
 # Week 3
 
-[XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
 
 ## Exercises
 
