@@ -4,6 +4,7 @@
 <br>3 . [Activity Diagram Tutorial](http://agilemodeling.com/artifacts/activityDiagram.htm)
 <br>4 . [Statechart Tutorial](http://agilemodeling.com/artifacts/stateMachineDiagram.htm)
 <br>5 . [Dice Game (See week 14) Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RQmtwWl8wVXVIWlU/view?usp=sharing)
+<br>6 . [Librarian (See week 17) Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RNDR3TFlJOWg5ZkE/view?usp=sharing)
 
 # Week 17 & 18
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
