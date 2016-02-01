@@ -6,6 +6,8 @@
 <br>5 . [Dice Game (See week 14) Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RQmtwWl8wVXVIWlU/view?usp=sharing)
 <br>6 . [Librarian (See week 17) Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RNDR3TFlJOWg5ZkE/view?usp=sharing)
 <br>7 . [Librarian Sequence Diagram Instructions](https://docs.google.com/document/d/1vf30fA2GV2m9OumIY92TNbxnXil5MsWzvlEX2hExpKc/edit?usp=sharing)
+<br>8 . [Bank Account (See week 17) Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RY2d2LThPYkR3MjQ/view?usp=sharing)
+<br>9 . [Bank Account Sequence Diagram Instructions](https://docs.google.com/document/d/14xSSj9p5WBhVBwEI4Dzm3cbtPqwnXsFnNp6e30SXFsM/edit?usp=sharing)
 
 # Week 17 & 18
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
