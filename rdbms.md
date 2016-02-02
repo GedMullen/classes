@@ -1,3 +1,20 @@
+# Week 7
+
+1 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
+
+
+##Exercises
+
+<br>1 . Display each last name in the employees table with a count of the number of occurrences of that last name.
+<br>2 . Display each first name in the employees table with a count of the number of occurrences of that first name.
+<br>3 . Use the ORDER BY and LIMIT clauses to identify the ten most common last names in the database.
+<br>4 . Use the ORDER BY and LIMIT clauses to identify the ten most common first names in the database.
+<br>5 . Write SQL to determine if there Is there anyone in the database that has the same first name/last name combination (group by first_name, last_name and count emp_no)?
+<br>6 . Show the top 10 employees that have moved department the most.
+
+
+
+
 # Week 6
 
 1 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
