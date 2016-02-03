@@ -14,7 +14,8 @@ Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and comple
 <br>4 . Use the ORDER BY and LIMIT clauses to identify the ten most common first names in the database.
 <br>5 . Write SQL to determine if there Is there anyone in the database that has the same first name/last name combination (group by first_name, last_name and count emp_no)?
 <br>6 . Show the top 10 employees that have moved department the most.
-
+<br>7 . Show the top 10 employees that have had the most changes in salary.
+<br>8 . Show the top 10 employees that have had the most changes in title. 
 
 
 
