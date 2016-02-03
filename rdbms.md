@@ -1,6 +1,7 @@
 # Week 7
 
 1 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
+<br>2 . [All Week 5 Exercises](https://gist.github.com/GedMullen/b357064b7a1d6ca2f497)
 
 
 ##Exercises
