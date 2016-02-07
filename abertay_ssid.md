@@ -1,3 +1,13 @@
+
+# Week 5
+
+1 . Assessment walkthrough.
+<br> 2 . [Countermeasuers Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
+<br> 3 . [PDP Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RWWozWjlwSWU2QTQ/view?usp=docslist_api)
+
+## Exercises
+1 . Complete the following [Lab Exercises](https://docs.google.com/document/d/1V3dd-qx6fLKC1HlnkGhOMnUpibRhKz7c6fu05GPA8ks/edit?usp=docslist_api).
+
 # Week 4
 
 1 . [Security Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
