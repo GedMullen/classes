@@ -1,3 +1,12 @@
+# Week 20
+
+1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
+
+## Exercises
+
+1 . Complete the [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm). Create an eclipse project on Ygritte called "week20exercies" and implement the example in the tutorial.
+<br>2 . Using serialiation amend the Dice game in Week 14 exercises to store the player objects for the playPart4() method. Create another method that restores the state of the player objects and rechecks the score.
+
 # Week 19
 1 . [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
 <br>2 . [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
