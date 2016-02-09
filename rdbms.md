@@ -1,3 +1,38 @@
+# Week 8
+
+1 . [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp)
+
+## Exercises
+
+1 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+<br> 2 . Issue the following commands to obtain a copy of DVWA. 
+```
+mkdir dvwa
+cp -r /home/share/dvwa/. dvwa
+```
+<br> 3 . You will need to change the database name in the following file to your own database name (use your login id):
+````
+DWA-1.9/config/config.inc.php
+````
+<br> 4 . Run a PHP server in the dvwa directory (replace the ??? with your own port number):
+
+```
+cd dvwa/
+php -S localhost:8???
+```
+<br> 5 . Open up a new terminal tab and run Chrome:
+````
+google-chrome
+````
+<br> 6 . Point Chrome to the following PHP file:
+```
+http://localhost:8???/login.php 
+```
+<br> 7 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+
+<br> 8 . Idenfity other SQL Injection exploits and document them in a file on Ygritte called "exploits.txt".
+
+
 # Week 7
 
 1 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
