@@ -13,7 +13,7 @@ cp -r /home/share/dvwa/. dvwa
 ```
 <br> 3 . You will need to change the database name in the following file to your own database name (use your login id):
 ````
-DWA-1.9/config/config.inc.php
+DVWA-1.9/config/config.inc.php
 ````
 <br> 4 . Run a PHP server in the dvwa directory (replace the ??? with your own port number):
 
