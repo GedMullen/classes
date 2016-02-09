@@ -28,6 +28,7 @@ google-chrome
 <br> 6 . Point Chrome to the following PHP file:
 ```
 http://localhost:8???/DVWA-1.9/login.php 
+http://localhost:8???/DVWA-1.9/vulnerabilities/sqli/index.php
 ```
 <br> 7 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
 
