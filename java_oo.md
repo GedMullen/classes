@@ -2,6 +2,7 @@
 
 1 . [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
 <br>2 . [Coupling and Cohesion](https://drive.google.com/file/d/0B-CFaefA1v4RWXNUeHR2M2tOMW8/view?usp=sharing)
+<br>2 . [Loaning An Item Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RdHd3MVFyUjlQaG8/view?usp=sharing)
 
 ## Exercises
 
