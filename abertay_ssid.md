@@ -1,8 +1,19 @@
 
+
+# Week 6
+
+<br> 1 . [DB Abstraction Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RUFR5R1hmSnFTZ2s/view?usp=docslist_api)
+<br> 2 . [Multi-Table Transactions Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RVTZSX2d0LWpmbG8/view?usp=docslist_api)
+
+## Exercises
+
+h<br> 1 . [DB Abstraction Lab](https://docs.google.com/document/d/1gKcQalNp2_SWTwm1LR8Vg1Nz82twYl9rQyq83ZjedUA/edit?usp=docslist_api)
+<br> 2 . [PHP Transactions Lab](https://docs.google.com/document/d/1kW9cplbjXheMEYyy_Hfz-h9m6R-TL0H3mLGFVDE0eU4/edit?usp=docslist_api)
+
 # Week 5
 
-1 . Assessment walkthrough.
-<br> 2 . [Countermeasuers Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
+1 . Assessment walk through.
+<br> 2 . [Countermeasures Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RTFg2eXRmWjVPN28/view?usp=docslist_api)
 <br> 3 . [PDP Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RWWozWjlwSWU2QTQ/view?usp=docslist_api)
 
 ## Exercises
