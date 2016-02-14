@@ -7,7 +7,7 @@
 
 ## Exercises
 
-h<br> 1 . [DB Abstraction Lab](https://docs.google.com/document/d/1gKcQalNp2_SWTwm1LR8Vg1Nz82twYl9rQyq83ZjedUA/edit?usp=docslist_api)
+<br> 1 . [DB Abstraction Lab](https://docs.google.com/document/d/1gKcQalNp2_SWTwm1LR8Vg1Nz82twYl9rQyq83ZjedUA/edit?usp=docslist_api)
 <br> 2 . [PHP Transactions Lab](https://docs.google.com/document/d/1kW9cplbjXheMEYyy_Hfz-h9m6R-TL0H3mLGFVDE0eU4/edit?usp=docslist_api)
 
 # Week 5
