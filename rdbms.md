@@ -4,7 +4,7 @@
 <br> 2 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
 <br> 3 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
 <br> 4 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
-<br> 5 . [Inserting Data](hhttp://www.w3schools.com/sql/sql_insert.asp)
+<br> 5 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
 <br> 6 . Creating a database:
 ```
 DROP DATABASE IF EXISTS <yourusername>;
