@@ -14,7 +14,7 @@ USE <yourusername>;
 ```
 
 ## Exercises
-<br> 1 . Use SQL to create the employees tables within your own database. Use the correct data types. INT, VARCHAR, DATE.
+<br> 1 . Use SQL to create the employees tables within your own database. Use the correct data types e.g. INT, VARCHAR, DATE etc.
 <br> 2 . Amend the script to set up Primary Keys on the tables.
 <br> 3 . Insert data into the tables.
 <br> 4 . Run previous weeks queries against your new database.
