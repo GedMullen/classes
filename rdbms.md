@@ -1,12 +1,13 @@
 # Week 9
 
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
-<br> 2 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
-<br> 3 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
-<br> 4 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
-<br> 5 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
-<br> 6 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
-<br> 7 . Creating a database:
+<br> 2 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+<br> 3 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
+<br> 4 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
+<br> 5 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
+<br> 6 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
+<br> 7 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
+<br> 8 . Creating a database:
 ```
 DROP DATABASE IF EXISTS <yourusername>;
 CREATE DATABASE <yourusername>;
