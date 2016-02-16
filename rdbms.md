@@ -1,11 +1,12 @@
 # Week 9
 
-1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
-<br> 2 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
-<br> 3 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
-<br> 4 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
-<br> 5 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
-<br> 6 . Creating a database:
+<br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+<br> 2 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
+<br> 3 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
+<br> 4 . [Primary Keys](http://www.w3schools.com/sql/sql_primarykey.asp)
+<br> 5 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
+<br> 6 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
+<br> 7 . Creating a database:
 ```
 DROP DATABASE IF EXISTS <yourusername>;
 CREATE DATABASE <yourusername>;
@@ -13,7 +14,7 @@ USE <yourusername>;
 ```
 
 ## Exercises
-<br> 1 . Use w3schools to reconstruct the employees tables within your own database. Use the correct data types. INT, VARCHAR, DATE.
+<br> 1 . Use SQL to create the employees tables within your own database. Use the correct data types. INT, VARCHAR, DATE.
 <br> 2 . Amend the script to set up Primary Keys on the tables.
 <br> 3 . Insert data into the tables.
 <br> 4 . Run previous weeks queries against your new database.
