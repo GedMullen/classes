@@ -15,7 +15,7 @@ USE <yourusername>;
 ```
 
 ## Exercises
-<br> 1 . Use SQL to create the employees tables within your own database. Use the correct data types e.g. INT, VARCHAR, DATE etc.
+<br> 1 . Create an SQL script in your sqlexercises folder called wk9.sql and create the employees tables within your own database. Use the correct data types e.g. INT, VARCHAR, DATE etc.
 <br> 2 . Amend the script to set up Primary Keys on the tables.
 <br> 3 . Insert data into the tables.
 <br> 4 . Run previous weeks queries against your new database.
