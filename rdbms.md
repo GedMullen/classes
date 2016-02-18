@@ -8,10 +8,16 @@
 <br> 6 . [Foreign Keys](http://www.w3schools.com/sql/sql_foreignkey.asp)
 <br> 7 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
 <br> 8 . Creating a database:
-```
+```sql
 DROP DATABASE IF EXISTS <yourusername>;
 CREATE DATABASE <yourusername>;
 USE <yourusername>;
+```
+<br> 9 . Useful "sanity check" commands to put at the end of your script:
+```sql
+show tables;
+describe employees;
+select * from employees limit 10;
 ```
 
 ## Exercises
