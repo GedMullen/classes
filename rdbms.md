@@ -15,9 +15,9 @@ USE <yourusername>;
 ```
 <br> 9 . Useful "sanity check" commands to put at the end of your script:
 ```sql
-show tables;
-describe employees;
-select * from employees limit 10;
+SHOW TABLES;
+DESCRIBE employees;
+SELECT * FROM employees LIMIT 10;
 ```
 
 ## Exercises
