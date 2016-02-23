@@ -1,3 +1,8 @@
+# Week 10 
+
+1 . L03&4 Assessment is on iLearn. Deadline is Friday 18.3.16 @ 11pm.
+<br> 2 . ["Concat Function"](http://www.tutorialspoint.com/mysql/mysql-concat-function.htm)
+
 # Week 9
 
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
