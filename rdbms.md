@@ -4,6 +4,7 @@
 <br> 2 . [Concat Function](http://www.tutorialspoint.com/mysql/mysql-concat-function.htm)
 <br> 3 . [Auto Increment](http://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html)
 <br> 4 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
+<br> 5 . [Week 9 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
 
 # Week 9
 
