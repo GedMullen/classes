@@ -1,3 +1,7 @@
+#Week 23
+
+<br>1 . [OO Revision](https://docs.google.com/document/d/1CfBcOplYDJ-MOAefeLgYAIzs4Q5rPcfK0XeKWdAF4xU/edit?usp=docslist_api)
+
 # Week 21
 
 <br>1 . Serialization - [DiceGame.java](https://gist.github.com/GedMullen/f2d757ef6efda773c8cf) - [Player.java](https://gist.github.com/GedMullen/6e6b2bccbef799426e83) - [Dice.java](https://gist.github.com/GedMullen/401d79b07b753d8002fa)
