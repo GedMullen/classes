@@ -1,4 +1,12 @@
+# Week 8
 
+<br> 1 . [Pagination Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RVm5MYXBhaElDckU/view?usp=docslist_api)
+<br> 2 . [State And Languages Presentation](https://drive.google.com/file/d/0B-CFaefA1v4Rd3laaEtZN0YxUFk/view?usp=docslist_api)
+
+## Exercises
+
+<br> 1 . [Pagination Lab](https://docs.google.com/document/d/1sfFoVe0XWLBjjMIJ6nguckE2UD_Ze2kSvbMstI7H4f8/edit?usp=docslist_api)
+<br> 2 . [State And Languages Lab](https://docs.google.com/document/d/1kjymvtUS6qmmeN_XYqGPqM7xeyWWEy90thzTCB3GW_U/edit?usp=docslist_api)
 
 # Week 6
 
