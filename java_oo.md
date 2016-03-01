@@ -1,8 +1,8 @@
 #Week 23
 
 <br>1 . [OO Revision](https://docs.google.com/document/d/1CfBcOplYDJ-MOAefeLgYAIzs4Q5rPcfK0XeKWdAF4xU/edit?usp=docslist_api)
-<br>1 . [OO Revision Answers](https://docs.google.com/document/d/1sl9kFfJ0HxqfW7pcjm-jMXXLcWqP-ilJD3j2Wm1DWZw/edit?usp=sharing)
-<br>2 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
+<br>2 . [OO Revision Answers](https://docs.google.com/document/d/1sl9kFfJ0HxqfW7pcjm-jMXXLcWqP-ilJD3j2Wm1DWZw/edit?usp=sharing)
+<br>3 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
 
 # Week 21
 
