@@ -1,3 +1,10 @@
+# Week 9
+
+<br> 1 . [CMS Presentation](https://drive.google.com/file/d/0B-CFaefA1v4Rc2I3cDRiMHVqbHM/view?usp=sharing)
+
+## Exercises
+
+<br> 1 . [CMS Lab](https://docs.google.com/document/d/15vDR3UV5uQM1Nx1DrJbJLMDK9ISIDAVKPdwoI5OqHmY/edit?usp=sharing
 # Week 8
 
 <br> 1 . [Pagination Presentation](https://drive.google.com/file/d/0B-CFaefA1v4RVm5MYXBhaElDckU/view?usp=docslist_api)
