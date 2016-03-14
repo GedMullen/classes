@@ -1,3 +1,13 @@
+# Week 10 
+
+<br> 1 . [Frameworks](https://drive.google.com/file/d/0B-CFaefA1v4RNG9vU2hsa3pZdVE/view?usp=sharing)
+<br> 2 . [Optimisation](https://drive.google.com/file/d/0B-CFaefA1v4RS1ZvRW5pUmVnb00/view?usp=sharing)
+
+## Exercises
+
+<br> 1 . [Frameworks Lab](https://docs.google.com/document/d/19U9drITgtmYDHWkpFkyP5BXw39ja8TdUJVCXakOE9xs/edit?usp=sharing)
+<br> 2 . [Optimisation Lab](https://docs.google.com/document/d/1qD9OACzsvB93WpnY_gmanDBxWy2MlBFLQDQVDP-G5t4/edit?usp=sharing)
+
 # Week 9
 
 <br> 1 . [CMS Presentation](https://drive.google.com/file/d/0B-CFaefA1v4Rc2I3cDRiMHVqbHM/view?usp=sharing)
