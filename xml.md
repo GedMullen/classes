@@ -1,8 +1,8 @@
 # Week 1
 
 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/FM9735.pdf)
-2 . [XML Tutoril](http://www.w3schools.com/xml/)
+<br>2 . [XML Tutoril](http://www.w3schools.com/xml/)
 
 ## Exercises
 
-1 . In groups create an XML document that represents the following [data](http://www.bbc.co.uk/sport/football/championship/table). 
+1 . In groups create an XML document called teams.xml that represents the following [data](http://mobile.football-league.co.uk/league-table/) (just create data for the first three teams as an example.) The XML document is to be regularly updated and provided to partner sites (such as the BBC) to display the latest league table. 
