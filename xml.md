@@ -1,7 +1,7 @@
 # Week 1
 
 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/FM9735.pdf)
-<br>2 . [XML Tutoril](http://www.w3schools.com/xml/)
+<br>2 . [XML Tutorial](http://www.w3schools.com/xml/)
 
 ## Exercises
 
