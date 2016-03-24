@@ -12,7 +12,7 @@
 
 <br> 1 . Download the [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing) and unzip the folder to your desktop. Once you have been provided with your username and password, follow the [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub) guide.
 <br> 2 . Complete the [Codecademy Learn The Command Line](https://www.codecademy.com/learn/learn-the-command-line) course. The course takes a few hours to complete. When you have finished you will be issued with a badge. Take a screenshot of the badged and upload it to iLearn in the upload area provided. 
-<br> 3 . Once you have logged on to Ygritte you can play an example MUD called [Aardwolf](http://www.aardwolf.com) by issueing the following command (we will be looking at MUDs in more detail after the break but it would be useful for you to play this during the holidays):
+<br> 3 . Once you have logged on to Ygritte you can play an example [MUD](https://en.wikipedia.org/wiki/MUD) called [Aardwolf](http://www.aardwolf.com) by issueing the following command (we will be looking at MUDs in more detail after the break but it would be useful for you to play this during the holidays):
 
 ```
 rlwrap telnet aardmud.org 23
