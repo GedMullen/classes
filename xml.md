@@ -5,5 +5,5 @@
 
 ## Exercises
 
-1 . In groups create an XML document called "teams.xml" on Ygritte that represents the following [data](http://mobile.football-league.co.uk/league-table/) (just create data for the first three teams as an example.) The XML document is to be regularly updated and provided to partner sites (such as the BBC) to display the latest league table.
+1 . In groups create an XML document called "teams.xml" on Ygritte that represents the following [data](http://www.football-league.co.uk/sky-bet-championship/league-table/) (just create data for the first three teams as an example.) The XML document is to be regularly updated and provided to partner sites (such as the BBC) to display the latest league table.
 <br>2 . In your groups research and identify a similar data suorce to that identified in Exercise 1. Create an example XML structure for the data source and present it to the class.   
