@@ -9,8 +9,8 @@
 
 1 . Google drive is an example of SAAS. Create a google account (or use one that you have already set up) and send me an email.
 <br>2 . Use the following links to create a 400 word document entitled "Cloud Computing - Introduction." Create the document using your Google Drive account and share it with me once you have completed it. 
+<br>[Link 1](]http://www.howstuffworks.com/cloud-computing/cloud-computing.htm)
 <br>[Link 2](http://www.webopedia.com/TERM/C/cloud_computing.html)
 <br>[Link 3](http://uk.pcmag.com/networking-communications-software-products/16824/feature/what-is-cloud-computing)
 <br>[Link 4](http://www.teach-ict.com/technology_explained/cloud_computing/cloud_computing.html)
-
 
