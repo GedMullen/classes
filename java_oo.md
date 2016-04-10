@@ -3,7 +3,9 @@
 <br> 1 . [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing)
 <br> 2 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
 <br> 3 . [Javadoc](http://www.tutorialspoint.com/java/java_documentation.htm)
-<br> 4 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm
+<br> 4 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm)
+<br> 5 . [Oracle - Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)
+<br> 6 . [Swing examples](https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#TextSamplerDemo)
 
 #Week 23
 
