@@ -1,3 +1,7 @@
+#Week 2
+
+1 . [Assessment Schedule](https://docs.google.com/document/d/1KO7tyPs0YO1ES2W3C4Gjoh6IHAyClhv92J93sMLWvLs/pub)
+
 #Week 1
 
 1 . [Unit Spec](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi1tIiG7dHLAhXE0xQKHa2ADhUQFgghMAE&url=http%3A%2F%2Fwww.sqa.org.uk%2Fsqa%2Ffiles%2Fhn%2FH17934.pdf&usg=AFQjCNFZ8WPbZ2tiiAgI-REg65hsWXJqLw&bvm=bv.117218890,d.ZWU)
