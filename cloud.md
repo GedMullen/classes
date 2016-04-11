@@ -1,6 +1,10 @@
 #Week 2
 
 1 . [Assessment Schedule](https://docs.google.com/document/d/1KO7tyPs0YO1ES2W3C4Gjoh6IHAyClhv92J93sMLWvLs/pub)
+<br>2 . [Amazon EC2 Pricing](https://aws.amazon.com/ec2/pricing/)
+
+##Exercises
+1 . [EC2 Pricing Exercise](https://docs.google.com/document/d/1BaVDKw2eOLNJloyO3jl4QPHeLVGb46E0bCOsI4mOeMw/pub)
 
 #Week 1
 
