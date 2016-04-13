@@ -1,6 +1,6 @@
 # Week 2
 
-1 . [Week 1 answer](https://gist.github.com/GedMullen/59e62a564e4aaf6acbca -->)
+1 . [Week 1 answer](https://gist.github.com/GedMullen/59e62a564e4aaf6acbca)
 <br> 2 . [Validating XML](http://www.w3schools.com/xml/xml_validator.asp)
 <br> 3 . [DTDs](http://www.w3schools.com/xml/xml_dtd.asp)
 <br> 4 . [DTD Tutorial](http://www.w3schools.com/xml/xml_dtd_intro.asp)
