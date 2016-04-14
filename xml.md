@@ -9,10 +9,11 @@
 ## Exercises
 
 1 . Create a project called "xmlexercises" in eclipse on Ygritte and create an XML file that contains the xml data you identified in Exercise 2 in Week 1. You should create a DTD for this XML file in a separate file and make sure that the DTD file validates your XML file appropriately. 
-<br> 2 . Add another 2 Invoice elements to the invoice.xml file in the XMLExamples project in Eclipse that contains different data and a date in a UK format. Make sure that the XML file still validates against the invoice.dtd file. 
+<br> 2 . Add another 2 Invoice items to the invoice.xml file in the XMLExamples project in Eclipse that contains different data and a date in a UK format. Make sure that the XML file still validates against the invoice.dtd file. 
 <br> 3 . Modify the invoice.xml and invoice.dtd files in the XMLExamples project in eclipse so that a zip OR postcode can be specified. Add another Invoice element to test your modification. 
 <br> 4 . Change the name and phone attributes to elements. Test your modifications.
 <br> 5 . Add a delivery address element.
+<br> 6 . Modify the xml and dtd to allow for multiple invoices in the one XML file. 
 
 # Week 1
 
