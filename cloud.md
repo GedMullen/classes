@@ -5,9 +5,13 @@
 <br>3 . [Google GCE Pricing](https://cloud.google.com/compute/pricing)
 ##Exercises
 1 . [EC2 Pricing Exercise](https://docs.google.com/document/d/1BaVDKw2eOLNJloyO3jl4QPHeLVGb46E0bCOsI4mOeMw/pub)
-2 . Repeat the exercise above for GCE.
-3 . Identify a cloud provider that allows you to create a free Linux IaaS instance (without using a credit card).
-
+<br>2 . Repeat the exercise above for GCE.
+<br>3 . Identify a cloud provider that allows you to create a free Linux IaaS instance (without using a credit card).
+<br>4 . Write a 500 word report using the links below (or others that you can find) describing IaaS. In addition to the description of IaaS your report should include what the advantages of such a service to organisations. Use your Google drive account to write the report an share it with me when you are finished.  
+[link 1](http://searchcloudcomputing.techtarget.com/definition/Infrastructure-as-a-Service-IaaS
+[link 2](http://www.interoute.com/what-iaas
+[link 3](http://www.thoughtsoncloud.com/2014/02/what-is-infrastructure-as-a-service-iaas/
+[link 4](http://www.cloudpro.co.uk/iaas/4797/what-is-iaas
 
 #Week 1
 
