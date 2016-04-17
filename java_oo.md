@@ -1,6 +1,6 @@
 #Graded Unit Stuff
 
-[DEADLINES](https://docs.google.com/document/d/13RebdNzpv5oEkWq3ZgmmXCjFZTteCSJ_JWTk1WbQEYg/edit?usp=docslist_api)
+**[Deadlines](https://docs.google.com/document/d/13RebdNzpv5oEkWq3ZgmmXCjFZTteCSJ_JWTk1WbQEYg/edit?usp=docslist_api)**
 
 <br> 1 . [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing)
 <br> 2 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
