@@ -1,3 +1,9 @@
+# Week 15
+
+1 . [Employees Conceptual](https://docs.google.com/document/d/13ciUimLe1DHgF9qM98Qv_lJnnsygEvSiqfvgYQ7dkBA/pub)
+<br>2. [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+
+
 # Week 10 
 
 1 . L03&4 Assessment is on iLearn. Deadline is Friday 18.3.16 @ 11pm.
