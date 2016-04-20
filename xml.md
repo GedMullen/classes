@@ -4,6 +4,9 @@
 <br>2 . [XML Tools](http://www.ibm.com/developerworks/library/x-xmltools/)
 <br>3 . L01 Assessment due 11pm Thursday 5.5.16. iLearn 5253.
 
+## Exercises
+
+1 . Complete Week 2 Exercises.
 
 # Week 2
 
