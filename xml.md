@@ -1,3 +1,10 @@
+# Week 3
+
+<br>1 . [The XML Prolog](http://www.w3schools.com/xml/xml_syntax.asp)
+<br>2 . [XML Tools](http://www.ibm.com/developerworks/library/x-xmltools/)
+<br>3 . L01 Assessment due 11pm Thursday 5.5.16. iLearn 5253.
+
+
 # Week 2
 
 1 . [Week 1 answer](https://gist.github.com/GedMullen/59e62a564e4aaf6acbca)
