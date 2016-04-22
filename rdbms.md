@@ -3,6 +3,13 @@
 1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
 <br>2 . [Employees Conceptual](https://docs.google.com/document/d/13ciUimLe1DHgF9qM98Qv_lJnnsygEvSiqfvgYQ7dkBA/pub)
 <br>3 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>4 . [Assessment Schedule](https://docs.google.com/document/d/1KO7tyPs0YO1ES2W3C4Gjoh6IHAyClhv92J93sMLWvLs/pub)
+<br>5 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>6 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+
+## Exercises
+1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be know at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
+<br>2 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
 
 # Week 10 
 
