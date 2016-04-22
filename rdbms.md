@@ -9,7 +9,7 @@
 
 ## Exercises
 
-1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be know at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
+1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be known at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
 <br>2 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
 
 # Week 10 
