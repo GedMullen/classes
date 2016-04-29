@@ -1,3 +1,19 @@
+# Week 16
+
+1 . [Chess Club](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
+
+<!--
+<br>2 . [Garage](https://drive.google.com/open?id=0B-CFaefA1v4RdXpCeE9YYnQ3VlE)
+<br>3 . [Cinema](https://drive.google.com/open?id=0B-CFaefA1v4RNThLZ2xzWDc4ME0)
+<br>4 . [Caravan](https://drive.google.com/open?id=0B-CFaefA1v4RXzF3NERPaUtJYjQ)
+<br>5 . [Bus Timetable](https://drive.google.com/open?id=0B-CFaefA1v4RdG5GcUVaYTNtUTQ)
+-->
+
+## Exercises
+
+1 . Continue with Exercise 2 from week 15.
+<br>2 . [Gelncaldy College ERM Exercise](https://drive.google.com/open?id=1VROyQv4qqRK9uyzXGJf8cNlNrizrcYhNzH_zXb2V8I4)
+
 # Week 15
 
 1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
