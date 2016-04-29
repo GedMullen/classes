@@ -1,7 +1,6 @@
 # Week 16
 
 1 . [Chess Club](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
-
 <br>2 . [Garage](https://drive.google.com/open?id=0B-CFaefA1v4RdXpCeE9YYnQ3VlE)
 <!--
 <br>3 . [Cinema](https://drive.google.com/open?id=0B-CFaefA1v4RNThLZ2xzWDc4ME0)
