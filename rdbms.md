@@ -1,3 +1,10 @@
+<!--
+http://www.sqa.org.uk/e-learning/MDBS01CD/page_20.htm
+http://www.quepublishing.com/articles/article.aspx?p=27785
+http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/
+-->
+
+
 # Week 16
 
 1 . [Chess Club](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
