@@ -1,3 +1,6 @@
+# Week 6
+<br>1 . [XSLT Tutorial](http://www.w3schools.com/xsl/)
+
 # Week 3
 
 <br>1 . [The XML Prolog](http://www.w3schools.com/xml/xml_syntax.asp)
