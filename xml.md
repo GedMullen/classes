@@ -1,3 +1,7 @@
+# Week 7
+
+<br>1 . [Using XSL With Eclipse ](http://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.wst.xsl.doc%2Fhtml%2Flaunching%2Flaunching.html)
+
 # Week 6
 <br>1 . [XSLT Tutorial](http://www.w3schools.com/xsl/)
 
