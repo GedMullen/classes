@@ -8,6 +8,7 @@
 <br> 4 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm)
 <br> 5 . [Oracle - Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)
 <br> 6 . [Swing examples](https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#TextSamplerDemo)
+<br> 7 . [Windowbuilder](http://help.eclipse.org/kepler/index.jsp?topic=/org.eclipse.wb.doc.user/html/installation/index.html)
 
 #Week 23
 
