@@ -1,5 +1,6 @@
 #Week 8 
-<br>1 . [Using XSL With Eclipse ](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
+<br>1 . [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad). Java Foundations and Fundamentals are both aimed at the Associate Certification. There is overlap between these two courses so I would recommend focusing on the Foundations course. The Fundamentals course looks at training environments like Alice and Greenfoot. The Porgrammer course is aimed at the Porgrammer Certification. 
+
 
 # Week 7
 
