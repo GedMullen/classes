@@ -10,7 +10,16 @@
 <br>http://www.thinkgrid.com/business-scenarios/public-vs-private-vs-hybrid-cloud/
 <br>http://blog.backupify.com/2013/01/14/how-will-you-make-the-jump-to-the-cloud-a-review-of-value-vs-risk/
 
-2 . 
+##Exercises 
+
+Write a 500 word report on Private, Public, Community and Hybrid clouds. Make sure you answer the following questions in your report:
+
+<br>1 . Define the purpose of each of the cloud types.
+<br>2 . What are the security implications of each of the cloud types?
+<br>3 . What are the implications for data protection?
+<br>4 . Which types of cloud provide the most flexibility?
+<br>5 . Which types of cloud are the easiest to administer?
+
 
 
 
