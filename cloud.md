@@ -7,7 +7,6 @@
 <br>http://www.networkworld.com/article/2182509/cloud-computing/private-cloud-vs--public-cloud-vs--hybrid-cloud.html
 <br>http://www.datacenterknowledge.com/archives/2014/10/13/explaining-community-cloud/
 <br>http://www.asigra.com/blog/cloud-types-private-public-and-hybrid
-<br>http://www.thinkgrid.com/business-scenarios/public-vs-private-vs-hybrid-cloud/
 <br>http://blog.backupify.com/2013/01/14/how-will-you-make-the-jump-to-the-cloud-a-review-of-value-vs-risk/
 
 ##Exercises 
