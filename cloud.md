@@ -1,15 +1,16 @@
 #Week 8
 
 1 . Familiarise yourself with [Harvard Referenceing](http://libweb.anglia.ac.uk/referencing/files/QuickHarvardGuide2015.pdf).
-2 . Private, Public, Community and Hybrid clouds: 
+<br>2 . Private, Public, Community and Hybrid clouds: 
+<br>
+<br>http://www.rackspace.co.uk/cloud-computing/difference
+<br>http://www.networkworld.com/article/2182509/cloud-computing/private-cloud-vs--public-cloud-vs--hybrid-cloud.html
+<br>http://www.datacenterknowledge.com/archives/2014/10/13/explaining-community-cloud/
+<br>http://www.asigra.com/blog/cloud-types-private-public-and-hybrid
+<br>http://www.thinkgrid.com/business-scenarios/public-vs-private-vs-hybrid-cloud/
+<br>http://blog.backupify.com/2013/01/14/how-will-you-make-the-jump-to-the-cloud-a-review-of-value-vs-risk/
 
-http://www.rackspace.co.uk/cloud-computing/difference
-http://www.networkworld.com/article/2182509/cloud-computing/private-cloud-vs--public-cloud-vs--hybrid-cloud.html
-http://www.datacenterknowledge.com/archives/2014/10/13/explaining-community-cloud/
-http://www.asigra.com/blog/cloud-types-private-public-and-hybrid
-http://www.thinkgrid.com/business-scenarios/public-vs-private-vs-hybrid-cloud/
-http://blog.backupify.com/2013/01/14/how-will-you-make-the-jump-to-the-cloud-a-review-of-value-vs-risk/
-
+2 . 
 
 
 
