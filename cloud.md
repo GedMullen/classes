@@ -1,6 +1,6 @@
 #Week 9
 
-Assessment is on [iLearn](http://ilearn.fife.ac.uk/course/view.php?id=5254). Deadline is Monday 13.6.16 @11pm.
+Assessment is on [iLearn](http://ilearn.fife.ac.uk/course/view.php?id=5254). Deadline is Monday 13.6.16 @11pm. Share your report via Google Drive.
 
 <br>PaaS Links:
 <br>http://searchcloudcomputing.techtarget.com/definition/Platform-as-a-Service-PaaS
