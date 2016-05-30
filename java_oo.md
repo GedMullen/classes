@@ -1,5 +1,8 @@
 #Graded Unit Stuff
 
+[Fife Council Jobs](https://www.myjobscotland.gov.uk/councils/fife-council/jobs/systems-developer-fif04442-49991)
+Deadline 9.6.16. Paul Donnelly will be chatting about how to apply in NS19 on Thursday 2nd June 1200 – 1300.
+
 **[Deadlines](https://docs.google.com/document/d/13RebdNzpv5oEkWq3ZgmmXCjFZTteCSJ_JWTk1WbQEYg/edit?usp=docslist_api)**
 
 <br> 1 . [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing)
