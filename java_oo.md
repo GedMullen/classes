@@ -3,7 +3,7 @@
 [Fife Council Jobs](https://www.myjobscotland.gov.uk/councils/fife-council/jobs/systems-developer-fif04442-49991)
 Deadline 9.6.16. Paul Donnelly will be chatting about how to apply in NS19 on Thursday 2nd June 1200 – 1300.
 
-<br>[Information Link](http://www.fifedirect.org.uk/topics/index.cfm?fuseaction=page.display&p2sid=09E0D744-AFBC-33E2-EDE85A17D41798E9&themeid=CF1A6730-CD2E-2956-93489E941E29AD03)
+<br>[Fife Council "How We Work" Information Link](http://www.fifedirect.org.uk/topics/index.cfm?fuseaction=page.display&p2sid=09E0D744-AFBC-33E2-EDE85A17D41798E9&themeid=CF1A6730-CD2E-2956-93489E941E29AD03)
 
 **[Deadlines](https://docs.google.com/document/d/13RebdNzpv5oEkWq3ZgmmXCjFZTteCSJ_JWTk1WbQEYg/edit?usp=docslist_api)**
 
