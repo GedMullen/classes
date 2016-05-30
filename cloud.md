@@ -8,7 +8,7 @@ Assessment is on [iLearn](http://ilearn.fife.ac.uk/course/view.php?id=5254). Dea
 <br>http://thoughtsoncloud.com/2014/02/what-is-platform-as-a-service-paas/
 <br>http://www.tomsitpro.com/articles/google-app-engine-paas-cloud-computing-web-application,2-598.html
 <br>
-<br>Hypervisors and Virtualisation
+<br>**Hypervisors and Virtualisation**
 <br>http://en.wikipedia.org/wiki/Hypervisor
 <br>http://searchservervirtualization.techtarget.com/tip/Virtualization-hypervisor-comparison-Type-1-vs-Type-2-hypervisors
 <br>http://blog.pluralsight.com/what-is-hypervisor
@@ -16,10 +16,10 @@ Assessment is on [iLearn](http://ilearn.fife.ac.uk/course/view.php?id=5254). Dea
 <br>http://www.linux-kvm.org/page/Main_Page
 <br>http://www.techradar.com/news/software/applications/is-it-time-to-give-kvm-hypervisor-a-go--1150037
 <br>
-<br>Security:
+<br>**Security:**
 <br>http://www.infoworld.com/article/2613560/cloud-security/cloud-security-9-top-threats-to-cloud-computing-security.html
 <br>
-<br>Open Source and Proprietary Cloud provider platforms
+<br>**Open Source and Proprietary Cloud provider platforms**
 <br>http://www.itproportal.com/2011/09/01/open-source-clouds-vs-proprietary-clouds-truth-out/
 
 
