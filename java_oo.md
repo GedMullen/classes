@@ -8,6 +8,13 @@ Deadline 9.6.16. Paul Donnelly will be chatting about how to apply in NS20 on Th
 <br> 1 . [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing)
 <br> 2 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
 <br> 3 . [Javadoc](http://www.tutorialspoint.com/java/java_documentation.htm)
+
+<br>Navigate to where your .java files are
+<br>mkdir doc
+<br>javadoc -d doc *.java
+<br>Open chrome or browser in Eclipse
+<br>file:///home/ged/workspace/studentswing/src/studentswing/doc/index.html
+
 <br> 4 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm)
 <br> 5 . [Oracle - Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)
 <br> 6 . [Swing examples](https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#TextSamplerDemo)
