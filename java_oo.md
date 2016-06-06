@@ -12,6 +12,7 @@ Deadline 9.6.16. Paul Donnelly will be chatting about how to apply in NS20 on Th
 <br> 5 . [Oracle - Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)
 <br> 6 . [Swing examples](https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#TextSamplerDemo)
 <br> 7 . [Eclipse Help for Windowbuilder](http://help.eclipse.org/mars/index.jsp) (go to the Windowbuilder section at the bottom)
+<br> 8 . [UI Event Handling & Data Binding](https://drive.google.com/open?id=1LT8cAEE7fU51Iqkt5XA5SN9Nxx1PGrPuHuqj1F_9R-w)
 
 #Week 23
 
