@@ -1,3 +1,27 @@
+# Week 10
+
+1 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+
+<br> Copy the following project into your eclipse workspace:
+```
+cd workspace
+mkdir dwa
+cp -r /home/share/dwa/. dwa
+```
+
+You will need to change the database name in the following file (once you have copied it):
+````
+DWA-1.9/config/config.inc.php
+````
+Use Chrome rather than the web browser in Eclipse (you will need JavaScript). Run the following command from the terminal:
+````
+google-chrome
+````
+<br> 2 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+
+
+
+
 #Week 8 
 <br>1 . [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad). Java Foundations and Fundamentals are both aimed at the Associate Certification. There is overlap between these two courses so I would recommend focusing on the Foundations course. The Fundamentals course looks at training environments like Alice and Greenfoot. The Programmer course is aimed at the Programmer Certification. 
 
