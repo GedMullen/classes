@@ -1,3 +1,27 @@
+# Week 9
+
+1 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+
+<br> Copy the following project into your eclipse workspace:
+```
+cd workspace
+mkdir dwa
+cp -r /home/share/dwa/. dwa
+```
+
+You will need to change the database name in the following file (once you have copied it):
+````
+DWA-1.9/config/config.inc.php
+````
+Use Chrome rather than the web browser in Eclipse (you will need JavaScript). Run the following command from the terminal:
+````
+google-chrome
+````
+<br> 2 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+
+
+
+
 #Week 9
 
 Assessment is on [iLearn](http://ilearn.fife.ac.uk/course/view.php?id=5254). Deadline is Monday 13.6.16 @11pm. Share your report via Google Drive.
