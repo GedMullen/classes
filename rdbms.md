@@ -1,3 +1,4 @@
+<!--
 # Week 18
 
 1 . [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
@@ -237,3 +238,5 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br> 6 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
 <br> 7 . [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
+
+-->
