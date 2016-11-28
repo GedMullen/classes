@@ -232,6 +232,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 -->
 # Week 1 & 2
 
+<!--
 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
 <br> 2 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 3 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
